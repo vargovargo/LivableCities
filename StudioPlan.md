@@ -12,10 +12,14 @@ Cities are now the dominant human habitat and impact places and people far beyan
 
 There are five sectors that come together through the Studio
 >Citizen
-Corporate 
-Government
-Service (non-profit)
-University
+
+>Corporate 
+
+>Government
+
+>Service (non-profit)
+
+>University
 
 ##Expected Results##
 
