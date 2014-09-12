@@ -1,5 +1,5 @@
 #Livable Cities UW#
-For more on Livable Cities read the [initial draft of the Livable Cities Idea](https://www.penflip.com/vargovargo/oldliveablecities) and the [Introduction of the Studio Concept](https://www.penflip.com/vargovargo/lcuwstudiointro).
+For more on Livable Cities read the [initial draft of the Livable Cities Idea](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md#livable-cities-inspiring-the-university-to-create-future-ready-communities) and the [Introduction of the Studio Concept](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#livable-cities-uw).
 
 - - -
 
@@ -16,18 +16,23 @@ Cities are now the dominant human habitat on Earth. Activities within their admi
 The five sectors and their expected outcomes are:
 
 >__Citizen__
+
 >_improved quality of life, health, opportunity, security_
 
 >__Corporate__
+
 >_discovery of new products, services, and markets_
 
 >__Government__
+
 >_improved policies and partnerships with citizens and businesses_
 
 >__Service (non-profit)__
+
 >_improved tools and designs for new programs and partnering communities_
 
 >__University__
+
 >_new research fronteirs and collaborations on and off campus_
 
 ![network_studio.png](images/network_studio.png)
@@ -35,6 +40,7 @@ The five sectors and their expected outcomes are:
 ##Project##
 The Urban Studio would be conducted on annual basis with changing themes determined by the UW Livable Cities Coordinating Council. Each year the studio would concentrate on a theme of urban activity. Already, several themes have been identified for the first 5 years of operation.
 
-+ Local Motion -- Active urban transportation
++ [Local Motion -- Active Transport in Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#local-motion--active-transport-in-cities)
++ [Weather Ready Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#weather-ready-cities)
++ [Feeding the City}(https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#feeding-the-city)
 
-+ 
