@@ -35,14 +35,17 @@ To initiate this work, Livable Cities UW proposes expanding the following (3) pr
 *Led by [Global Health Institute](http://ghi.wisc.edu/)*
 >Several of the leading causes of disease and death are now lifestyle disorders and can be prevented or avoided by physical activity. The transportation systems of cities create opportunities and obstacles for regular physical activity. Jonathan Patz, the Director of UW’s Global Health Institute has long been a leader on the health co-benefits of mitigating climate change. GHI’s papers and presentations quantifying the impacts of active transport have been appeared in front of local, state, national, and international officials. The solutions from this studio can make cities more efficient, greener, and healthier at the same time. 
 
-###Weather Ready Cities###
+###Weather Ready Cities ###
 *Led by [Nelson Institute for Environmental Studies](http://www.nelson.wisc.edu/)*
 >With a changing climate, extremes in weather are expected to become more intense and frequent. The infrastructure – for drinking water, wastewater management, energy supply and transportation – in most US cities is aging and ill suited to handle increasing demands placed on it by extreme events. US cities face a daunting but timely opportunity to lay the foundation for socially, economically and environmentally sustainable futures. This studio will combine the UW’s expertise in engineered and natural systems to produce attainable and appropriate infrastructure solutions for cities. Ensuring that the climate extremes of the future do not result in greater damages for cities and the people inhabiting them. 
-
 
 ###Feeding the City ###
 *Led by [College of Agricultural and Life Sciences](http://www.cals.wisc.edu/)*
 >Land grant institutions, like UW, were founded around improving agricultural practices. Today, that legacy is improving urban food systems. Ideas from this studio will be capable of increasing food production of urban space while improving equal access to nutritional food and strengthening communities to deal with other challenges they face. 
+
+###Energy Independent Cities ###
+*Led by [Wisconsin Energy Institute](https://energy.wisc.edu/)*  
+>Developed at UW–Madison, micro-grids are small versions of the electricity generation, transmission and control systems that currently serve large chunks of the US. With relative autonomy, micro-grids can choose low-carbon energy feedstocks and tailor generation and transmission capacity to local conditions, including both markets and weather. This studio will examine how micro-grids can be ideally scaled for cities, potentially increasing autonomy, public safety and employment.
 
 ##Why UW, Why The Midwest?##
 The University of Wisconsin-Madison is a nationally recognized, and comprehensive, public university located in the Midwest. While Livable Cities UW expects to produce innovations that can help cities around the world, the focus of the initiative will be urban areas in the Upper Midwest. UW’s location and connections to Midwestern cities make it well suited to addressing the specific challenges faced by cities in the region. Urban centers like Detroit and Milwaukee are engaged in uphill battles to become more livable: battles against unemployment, aging infrastructure, environmental quality, food insecurity and disenfranchisement. 
