@@ -15,27 +15,19 @@ Cities are now the dominant human habitat on Earth. Activities within their admi
 
 The five sectors and their expected outcomes are:
 
->__Citizen__
+>__Citizen__ _improved quality of life, health, opportunity, security_
 
->_improved quality of life, health, opportunity, security_
+>__Corporate__ _discovery of new products, services, and markets_
 
->__Corporate__
+>__Government__ _improved policies and partnerships with citizens and businesses_
 
->_discovery of new products, services, and markets_
+>__Service (non-profit)__ _improved tools and designs for new programs and partnering communities_
 
->__Government__
-
->_improved policies and partnerships with citizens and businesses_
-
->__Service (non-profit)__
-
->_improved tools and designs for new programs and partnering communities_
-
->__University__
-
->_new research fronteirs and collaborations on and off campus_
+>__University__ _new research frontiers and collaborations on and off campus_
 
 ![Position of UW Urban Studio within Urban Landscape](images/network_studio.png)
+
+- - -
 
 ##Project Plan##
 To foster the collaborations we see as needed for urban innovation and success Studios are designed to focus attention on specific issues around UW has momentum. Importantly, however, the 5 year plan for Studios includes rolling out new themes in Studios. This helps ensure that the connections between urban systems investigated in any one Studio are considered within the context of 
@@ -54,13 +46,19 @@ In addition to the Studios, each year a conference will be held in Madison, WI o
 2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion 
 3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice
 
+- - -
+
 ##Activities / Operations##
 
 The Studio will serve as a space for hosting stakeholders, fostering discussion, prototyping designs and solutions, and presenting ideas to the public. Each Theme will inhabit the Urban Studio space for approximately one year, however,  activities and partnerships formed through that work are expected to continue beyond the first year. Annually a new network of related UW faculty and non-University partner ogranizations will be assembled based on the Studio Theme. Associated faculty will recieve 20% time buy out for participation and be expected to work out of the Studio space part time during that year. ___Student recruitment for Studio participation is still a hurdle (NEED MORE HERE).___ The operation of the Urban Studio will be handled by a new administrative manager, and staffed by two (_2_) student hourlies/term. Additionally, following each Theme (ie each year) faculty members of the Studio will recruit a post-doc to be hired.
 
 ![One Year Timeline](images/oneyear.png)
 
-The five year plan for the Studios builds in 
+The five year plan for the Studios builds in the requirement of Studio work to spur collaborative research on campus,and explore connections across urban themes. This is accomplished by hiring post-doctoral scholars following each year of the Studio's operation. This strategy also encourages the pursuit of external funding for Studio-driven research, with the aim of acheiving a self-sustaining level of funding in the 5-10 year range (___????____). 
+
+
+
+- - -
 
 The Urban Studio requies an annual budget of approximately $250,000. This goes toward:
 
