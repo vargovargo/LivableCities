@@ -35,17 +35,17 @@ The five sectors and their expected outcomes are:
 
 >_new research fronteirs and collaborations on and off campus_
 
-![network_studio.png](images/network_studio.png)
+![Position of UW Urban Studio within Urban Landscape](images/network_studio.png)
 
 ##Project Plan##
 To foster the collaborations we see as needed for urban innovation and success Studios are designed to focus attention on specific issues around UW has momentum. Importantly, however, the 5 year plan for Studios includes rolling out new themes in Studios. This helps ensure that the connections between urban systems investigated in any one Studio are considered within the context of 
 
 The Urban Studio will be conducted on annual basis with changing themes determined by the UW Livable Cities Coordinating Council. Each year the studio would concentrate on a theme of urban activity. Already, several themes have been identified for the first five (_5_) years of operation.
 
-+ [Local Motion -- Active Transport in Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#local-motion--active-transport-in-cities)
-+ [Weather Ready Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#weather-ready-cities)
-+ [Feeding the City](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#feeding-the-city)
-+ [Energy Independent Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#energy-independent-cities)
++ [Local Motion -- Active Transport in Cities](StudioIntro.md#local-motion--active-transport-in-cities)
++ [Weather Ready Cities](StudioIntro.md#weather-ready-cities)
++ [Feeding the City](StudioIntro.md#feeding-the-city)
++ [Energy Independent Cities](StudioIntro.md#energy-independent-cities)
 + 
 
 In addition to the Studios, each year a conference will be held in Madison, WI on urban issues and research. The conference serves three purposes
@@ -53,6 +53,12 @@ In addition to the Studios, each year a conference will be held in Madison, WI o
 1. Introduces the studio theme for the coming year and engages the participating parties from the 5 sectors.
 2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion 
 3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice
+
+##Activities / Operations##
+
+The Studio will serve as space for hosting stakeholders, fostering discussion, prototyping designs and solutions, and presenting ideas to the public. Each Theme will inhabit the Urban Studio space for approximately one year, however,  activities and partnerships formed through that work are expected to continue beyond the first year. Annually a new network of related UW faculty and non-University partner ogranizations will be assembled based on the Studio Theme. Associated faculty will recieve 20% time buy out for participation and be expected to work out of the Studio space part time during that year. ___Student recruitment for Studio participation is still a hurdle (NEED MORE HERE).___ The operation of the Urban Studio will be handled by a new administrative manager, and staffed by student hourlies. 
+
+![one year Timeline](images/oneyear.png)
 
 
 
