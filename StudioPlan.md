@@ -56,10 +56,14 @@ In addition to the Studios, each year a conference will be held in Madison, WI o
 
 ##Activities / Operations##
 
-The Studio will serve as space for hosting stakeholders, fostering discussion, prototyping designs and solutions, and presenting ideas to the public. Each Theme will inhabit the Urban Studio space for approximately one year, however,  activities and partnerships formed through that work are expected to continue beyond the first year. Annually a new network of related UW faculty and non-University partner ogranizations will be assembled based on the Studio Theme. Associated faculty will recieve 20% time buy out for participation and be expected to work out of the Studio space part time during that year. ___Student recruitment for Studio participation is still a hurdle (NEED MORE HERE).___ The operation of the Urban Studio will be handled by a new administrative manager, and staffed by student hourlies. 
+The Studio will serve as a space for hosting stakeholders, fostering discussion, prototyping designs and solutions, and presenting ideas to the public. Each Theme will inhabit the Urban Studio space for approximately one year, however,  activities and partnerships formed through that work are expected to continue beyond the first year. Annually a new network of related UW faculty and non-University partner ogranizations will be assembled based on the Studio Theme. Associated faculty will recieve 20% time buy out for participation and be expected to work out of the Studio space part time during that year. ___Student recruitment for Studio participation is still a hurdle (NEED MORE HERE).___ The operation of the Urban Studio will be handled by a new administrative manager, and staffed by two (_2_) student hourlies/term. Additionally, following each Theme (ie each year) faculty members of the Studio will recruit a post-doc to be hired.
 
-![one year Timeline](images/oneyear.png)
+![One Year Timeline](images/oneyear.png)
 
+The five year plan for the Studios builds in 
 
+The Urban Studio requies an annual budget of approximately $250,000. This goes toward:
+
++  
 
 
