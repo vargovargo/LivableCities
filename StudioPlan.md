@@ -11,7 +11,7 @@ Our goal is make the University of Wisconsin an international destination for sc
 ###University Rigor. Real Problems. Better Places. Fuller Lives.###
 Universtiy of Wisconsin Livable Cities, through its ___Urban Studios___, aims to connect UW experts and students with local governments and communities around the places we live. Our goal is to produce solutions that serve as models for improving lives in for people in cities around the world.  
 
-Cities are now the dominant human habitat on Earth. Activities within their administrative boundaries affect places and people far beyond.  Thus urban innovation and solutions are needed to solve problems on the scales of local inequalities to global climate change. Impactful research and meaningful training require universities to work with cities, however, there is currently no good mechanism for directing the incredible faculty and student resources of the UW to study and work on these issues.  ___UW's Urban Studio___ will be a physical University space in the City of Madison where the _sectors_ of urban life convene. The Stuido is both a forum for stakeholders to collectively define urban issues and an incubator for creating solutions.
+Cities are now the dominant human habitat on Earth. Activities within their administrative boundaries affect places and people far beyond.  Thus urban innovation and solutions are needed to solve problems at the scale of local inequalities and global climate change. Impactful research and meaningful training require universities to work with cities, however, there is currently no good mechanism for directing the incredible faculty and student resources of the UW to study and work on these issues.  ___UW's Urban Studio___ will be a physical University space in the City of Madison where the _sectors_ of urban life convene. The Stuido is both a forum for stakeholders to collectively define urban issues and an incubator for creating solutions.
 
 The five sectors and their expected outcomes are:
 
@@ -37,10 +37,23 @@ The five sectors and their expected outcomes are:
 
 ![network_studio.png](images/network_studio.png)
 
-##Project##
-The Urban Studio would be conducted on annual basis with changing themes determined by the UW Livable Cities Coordinating Council. Each year the studio would concentrate on a theme of urban activity. Already, several themes have been identified for the first 5 years of operation.
+##Project Plan##
+To foster the collaborations we see as needed for urban innovation and success Studios are designed to focus attention on specific issues around UW has momentum. Importantly, however, the 5 year plan for Studios includes rolling out new themes in Studios. This helps ensure that the connections between urban systems investigated in any one Studio are considered within the context of 
+
+The Urban Studio will be conducted on annual basis with changing themes determined by the UW Livable Cities Coordinating Council. Each year the studio would concentrate on a theme of urban activity. Already, several themes have been identified for the first five (_5_) years of operation.
 
 + [Local Motion -- Active Transport in Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#local-motion--active-transport-in-cities)
 + [Weather Ready Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#weather-ready-cities)
-+ [Feeding the City}(https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#feeding-the-city)
++ [Feeding the City](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#feeding-the-city)
++ [Energy Independent Cities](https://github.com/vargovargo/LivableCities/blob/master/StudioIntro.md#energy-independent-cities)
++ 
+
+In addition to the Studios, each year a conference will be held in Madison, WI on urban issues and research. The conference serves three purposes
+
+1. Introduces the studio theme for the coming year and engages the participating parties from the 5 sectors.
+2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion 
+3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice
+
+
+
 
