@@ -54,14 +54,19 @@ The Studio will serve as a space for hosting stakeholders, fostering discussion,
 
 ![One Year Timeline](images/oneyear.png)
 
-The five year plan for the Studios builds in the requirement of Studio work to spur collaborative research on campus,and explore connections across urban themes. This is accomplished by hiring post-doctoral scholars following each year of the Studio's operation. This strategy also encourages the pursuit of external funding for Studio-driven research, with the aim of acheiving a self-sustaining level of funding in the 5-10 year range (___????____). 
+The five year plan for the Studios builds in the requirement of Studio work to spur collaborative research on campus,and explore connections across urban themes. This is accomplished by hiring post-doctoral scholars following each year of the Studio's operation. This strategy also encourages the pursuit of external funding for Studio-driven research, with the aim of acheiving a self-sustaining level of funding in the 5-10 year range (___????___). 
 
 ![Five Year Timeline](images/fiveyear.png)
 
 - - -
 
-The Urban Studio requies an annual budget of approximately $250,000. This goes toward:
+We anticipate an annual of budget of approximately $250,000 to operate the Urban Studio in the first five years. Money would go toward:
 
-+  
++  A new administrative manager dedicated to the operation and coordination of the Studio (_$50-$60,000/yr_)
++  Rented space for the Studio, approximately 3,000 sq ft. in Downtown Madison (_$36 - $60/yr_)
++  Two student hourlies for ~12hr/wk (_$15,000/yr_)
++  Meeting Supplies (_$20,000/yr_)
++  Buy out (5) faculty time @ 10% (_$50,000_)
++  1 yr Post doc (_$50,000_)
 
 
