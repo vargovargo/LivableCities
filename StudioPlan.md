@@ -56,7 +56,7 @@ The Studio will serve as a space for hosting stakeholders, fostering discussion,
 
 The five year plan for the Studios builds in the requirement of Studio work to spur collaborative research on campus,and explore connections across urban themes. This is accomplished by hiring post-doctoral scholars following each year of the Studio's operation. This strategy also encourages the pursuit of external funding for Studio-driven research, with the aim of acheiving a self-sustaining level of funding in the 5-10 year range (___????____). 
 
-
+![Five Year Timeline](images/fiveyear.png)
 
 - - -
 
