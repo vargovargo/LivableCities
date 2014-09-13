@@ -1,0 +1,5 @@
+## ignore these file types
+
+*.pdf
+*.ai
+*.DSstore
