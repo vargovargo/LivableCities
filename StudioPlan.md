@@ -46,6 +46,8 @@ In addition to the Studios, each year a conference will be held in Madison, WI o
 2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion. 
 3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice.
 
+Particularly in the year proceeding the first Studio, the conference will be used to inform colleagues on the UW-Madison, and other UW Campuses about activites and opportunities with Livable Cities. This will increase the participation among UW faculty and bring new topics and research to the Urban Studio. Conferences in later years (3-5), will take advantage of previous Stuido work and subsequent research, to attract wider audiences and higher impact speakers. 
+
 - - -
 
 ##Activities / Operations##
@@ -61,11 +63,11 @@ The five year plan for the Studios builds in the requirement of Studio work to s
 
 - - -
 
-We anticipate an annual of budget of approximately $250,000 to operate the Urban Studio in the first five years. Money would go toward:
+We anticipate an annual of budget of approximately $250-300,000 to operate the Urban Studio in the first five years. Money would go toward:
 
 +  A new administrative manager dedicated to the operation and coordination of the Studio (_$50-$60,000/yr_)
 +  Rented space for the Studio, approximately 3,000 sq ft. in Downtown Madison to facilitate maximum collaboration with the city (_$36 - $60/yr_)
 +  Two student hourlies for ~12hr/wk (_$15,000/yr_)
-+  Meeting Costs (_$20,000/yr_)
-+  Buy out (5) faculty time @ 10% (_$50,000_)
++  Meeting Costs (_$30,000/yr_)
++  Buy out (5) faculty time @ 10% (_$70,000_)
 +  1 yr Post doc (_$50,000_)
