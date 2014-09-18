@@ -71,3 +71,4 @@ We anticipate an annual of budget of approximately $250-300,000 to operate the U
 +  Meeting Costs (_$30,000/yr_)
 +  Buy out (5) faculty time @ 10% (_$70,000_)
 +  1 yr Post doc (_$50,000_)
+
