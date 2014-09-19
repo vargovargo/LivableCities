@@ -65,10 +65,10 @@ The five year plan for the Studios builds in the requirement of Studio work to s
 
 We anticipate an annual of budget of approximately $250-300,000 to operate the Urban Studio in the first five years. Money would go toward:
 
-+  A new administrative manager dedicated to the operation and coordination of the Studio (_$50-$60,000/yr_)
-+  Rented space for the Studio, approximately 3,000 sq ft. in Downtown Madison to facilitate maximum collaboration with the city (_$36 - $60/yr_)
-+  Two student hourlies for ~12hr/wk (_$15,000/yr_)
-+  Meeting Costs (_$30,000/yr_)
-+  Buy out (5) faculty time @ 10% (_$70,000_)
-+  1 yr Post doc (_$50,000_)
++  A new administrative manager dedicated to the operation and coordination of the Studio + fringe (_$70-$80K/yr_)
++  Rented space for the Studio, approximately 3,000 sq ft. in Downtown Madison to facilitate maximum collaboration with the city (_$36K - $60K/yr_)
++  Two student hourlies for ~12hr/wk (_$15K/yr_)
++  Meeting Costs (_$30K/yr_)
++  Buy out (5) faculty time @ 10% + fringe (_$120K_)
++  1 yr Post doc + fringe (_$65K_)
 
