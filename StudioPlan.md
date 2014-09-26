@@ -46,7 +46,7 @@ In addition to the Studios, each year a conference will be held in Madison, WI o
 2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion. 
 3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice.
 
-Particularly in the year proceeding the first Studio, the conference will be used to inform colleagues on the UW-Madison, and other UW Campuses about activites and opportunities with Livable Cities. This will increase the participation among UW faculty and bring new topics and research to the Urban Studio. Conferences in later years (3-5), will take advantage of previous Stuido work and subsequent research, to attract wider audiences and higher impact speakers. 
+Particularly in the year proceeding the first Studio, the conference will be used to inform colleagues on the UW-Madison, and other UW Campuses about activities and opportunities with Livable Cities. This will increase the participation among UW faculty and bring new topics and research to the Urban Studio. Conferences in later years (3-5), will take advantage of previous Studio work and subsequent research, to attract wider audiences and higher impact speakers. 
 
 - - -
 
