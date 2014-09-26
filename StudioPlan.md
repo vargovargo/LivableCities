@@ -5,13 +5,13 @@ For more on Livable Cities read the [initial draft of the Livable Cities Idea](h
 
 <a name="studioplans"></a> <a name="pilotplan"></a>
 ##Vision##
-Our goal is make the University of Wisconsin an international destination for science, scholarship and outreach to create diverse, safe, healthy and just urban areas. With concepts and prototypes for cleaner air, water, soil and power, and economically, equitably, ecologically and culturally rich urban places, we want to offer practical systems and models that emerging cities around the world can adapt and adopt.
+Our goal is make the University of Wisconsin an international destination for science, scholarship and outreach to create diverse, safe, just and healthy urban areas. With concepts and prototypes for cleaner air, water, soil and power, and economically, equitably, ecologically and culturally rich urban places, we want to offer practical systems and models that emerging cities around the world can adapt and adopt.
 
 ##The UW Urban Studio##
 ###University Rigor. Real Problems. Better Places. Fuller Lives.###
-Universtiy of Wisconsin Livable Cities, through its ___Urban Studios___, aims to connect UW experts and students with local governments and communities around the places we live. Our goal is to produce solutions that serve as models for improving lives in for people in cities around the world.  
+University of Wisconsin Livable Cities, through its ___Urban Studios___, aims to connect UW experts and students with local governments and communities in the places we live. Our goal is to produce solutions that serve as models for improving lives for people in cities around the world.  
 
-Cities are now the dominant human habitat on Earth. Activities within their administrative boundaries affect places and people far beyond.  Thus urban innovation and solutions are needed to solve problems at the scale of local inequalities and global climate change. Impactful research and meaningful training require universities to work with cities, however, there is currently no good mechanism for directing the incredible faculty and student resources of the UW to study and work on these issues.  ___UW's Urban Studio___ will be a physical University space in the City of Madison where the _sectors_ of urban life convene. The Stuido is both a forum for stakeholders to collectively define urban issues and an incubator for creating solutions.
+Cities are now the dominant human habitat on Earth. Activities within their administrative boundaries affect places and people far beyond.  Thus urban innovation and solutions are needed to solve problems at the scale of local inequalities and global climate change. Impactful research and meaningful training require universities to work with cities; however, there is currently no good mechanism for directing the incredible faculty and student resources of the UW to study and work on these issues.  ___UW's Urban Studio___ will be a physical University space in the City of Madison where the _sectors_ of urban life convene. The Studio is both a forum for stakeholders to collectively define urban issues and an incubator for creating solutions.
 
 The five sectors and their expected outcomes are:
 
@@ -30,7 +30,7 @@ The five sectors and their expected outcomes are:
 - - -
 
 ##Project Plan##
-To foster the collaborations we see as needed for urban innovation and success Studios are designed to focus attention on specific issues around UW has momentum. Importantly, however, the 5 year plan for Studios includes rolling out new themes in Studios. This helps ensure that the connections between urban systems investigated in any one Studio are considered within the context of 
+To foster the collaborations needed for urban innovation and success, Studios are designed to focus attention on specific issues around where UW has momentum. Importantly, however, the 5 year plan for Studios includes rolling out new themes in Studios. This helps ensure that the connections between urban systems investigated in any one Studio are considered within the context of academic research.
 
 The Urban Studio will be conducted on annual basis with changing themes determined by the UW Livable Cities Coordinating Council. Each year the studio would concentrate on a theme of urban activity. Already, several themes have been identified for the first five (_5_) years of operation.
 
@@ -38,35 +38,37 @@ The Urban Studio will be conducted on annual basis with changing themes determin
 + [Weather Ready Cities](StudioIntro.md#weather-ready-cities)
 + [Feeding the City](StudioIntro.md#feeding-the-city)
 + [Energy Independent Cities](StudioIntro.md#energy-independent-cities)
-+ 
++ TBD
 
 In addition to the Studios, each year a conference will be held in Madison, WI on urban issues and research. The conference serves three purposes
 
 1. Introduces the studio theme for the coming year and engages the participating parties from the 5 sectors.
-2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion 
-3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice
+2. Connects the results and progress from the previous Studio's work to new Studios and the public through presentation and discussion. 
+3. Increases the visibility of UW and the City of Madison in the arena of urban sustainability research and practice.
+
+Particularly in the year proceeding the first Studio, the conference will be used to inform colleagues on the UW-Madison, and other UW Campuses about activites and opportunities with Livable Cities. This will increase the participation among UW faculty and bring new topics and research to the Urban Studio. Conferences in later years (3-5), will take advantage of previous Stuido work and subsequent research, to attract wider audiences and higher impact speakers. 
 
 - - -
 
 ##Activities / Operations##
 
-The Studio will serve as a space for hosting stakeholders, fostering discussion, prototyping designs and solutions, and presenting ideas to the public. Each Theme will inhabit the Urban Studio space for approximately one year, however,  activities and partnerships formed through that work are expected to continue beyond the first year. Annually a new network of related UW faculty and non-University partner ogranizations will be assembled based on the Studio Theme. Associated faculty will recieve 20% time buy out for participation and be expected to work out of the Studio space part time during that year. ___Student recruitment for Studio participation is still a hurdle (NEED MORE HERE).___ The operation of the Urban Studio will be handled by a new administrative manager, and staffed by two (_2_) student hourlies/term. Additionally, following each Theme (ie each year) faculty members of the Studio will recruit a post-doc to continue the work of the studio in the academic setting. This will ensure that information exchanged as a part of the Studio Year will develop into grant applications and scientific papers.
+The Studio will serve as a space for hosting stakeholders, fostering discussion, prototyping designs and solutions, and presenting ideas to the public. Each Theme will inhabit the Urban Studio space for approximately one year, however, activities and partnerships formed through that work are expected to continue beyond the first year. Annually, a new network of related UW faculty and non-University partner organizations will be assembled based on the Studio Theme. Associated faculty will receive 20% time buy out for participation and be expected to work out of the Studio space part time during that year. Student recruitment for Studio participation is still a hurdle as it takes coordination at the University level to receive credit.  To begin, Studios will be offered as an internship possibility. The operation of the Urban Studio will be handled by a new administrative manager, and staffed by two (_2_) student hourlies/term. Additionally, following each Theme (ie each year) faculty members of the Studio will recruit a post-doc to be hired.
 
 ![One Year Timeline](images/oneyear.png)
 
-The five year plan for the Studios builds in the requirement of Studio work to spur collaborative research on campus,and explore connections across urban themes. This is accomplished by hiring post-doctoral scholars following each year of the Studio's operation. This strategy also encourages the pursuit of external funding for Studio-driven research, with the aim of acheiving a self-sustaining level of funding in the 5-10 year range (___????___). 
+The five year plan for the Studios builds in the requirement of Studio work to spur collaborative research on campus, and explore connections across urban themes. This is accomplished by hiring post-doctoral scholars following each year of the Studio's operation. This strategy also encourages the pursuit of external funding for Studio-driven research, with the aim of achieving a self-sustaining level of funding, or attracting complimentary funding, in the 5-10 year range. 
 
 ![Five Year Timeline](images/fiveyear.png)
 
+
 - - -
 
-We anticipate an annual of budget of approximately $250,000 to operate the Urban Studio in the first five years. Money would go toward:
+We anticipate an annual of budget of approximately $250-300,000 to operate the Urban Studio in the first five years. Money would go toward:
 
-+  A new administrative manager dedicated to the operation and coordination of the Studio (_$50-$60,000/yr_)
-+  Rented space for the Studio, approximately 3,000 sq ft. in Downtown Madison (_$36 - $60/yr_)
-+  Two student hourlies for ~12hr/wk (_$15,000/yr_)
-+  Meeting Supplies (_$20,000/yr_)
-+  Buy out (5) faculty time @ 10% (_$50,000_)
-+  1 yr Post doc (_$50,000_)
-
++  A new administrative manager dedicated to the operation and coordination of the Studio + fringe (_$70-$80K/yr_)
++  Rented space for the Studio, approximately 3,000 sq ft. in Downtown Madison to facilitate maximum collaboration with the city (_$36K - $60K/yr_)
++  Two student hourlies for ~12hr/wk (_$15K/yr_)
++  Meeting Costs (_$30K/yr_)
++  Buy out (5) faculty time @ 10% + fringe (_$120K_)
++  1 yr Post doc + fringe (_$65K_)
 
