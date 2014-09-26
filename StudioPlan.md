@@ -72,3 +72,12 @@ We anticipate an annual of budget of approximately $250-300,000 to operate the U
 +  Buy out (5) faculty time @ 10% + fringe (_$120K_)
 +  1 yr Post doc + fringe (_$65K_)
 
+- - - 
+
+##Active Transportation Studio Ramp-up Activities##
+
+We have begun to assemble a network of potential partners that might be involved in Year 1 of the Urban Studio - focused on Active Transportation. These include partners from all 5 sectors [described above](#the-uw-urban-studio).
+
+![Potential Active Transport Nerwork - by sector](images/localMotionNetworkBySector.png)
+
+
