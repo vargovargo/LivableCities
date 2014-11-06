@@ -11,14 +11,14 @@ __2) 	What is a specific central challenge in this area that is yet unresolved?_
 >Technically viabile solutions for integrating distributed generation and storage resources with the utility grid and automated demand response systems exist. They are called microgrids. ___The remaining central challenge is in integrating these technical solutions within the regulatory public utility paradigm.___  Prototype operational and business models for incorporating microgrids within the existing electricity infrastructure do not exist today. Discussions have been limited to issues narrowly focused on the economics of investment by various parties, and fail to harness the potential for the nuanced use of technology in realizing large-scale benefits. 
 
 >Other possibilities for microgrids include 
->>utility-owned generation and storage assets in customer locations 
->>third party owned assets
->>third party operated systems
->>peer-to-peer energy exchanges
->>revenue settlement systems 
->>strategic role of price discrimination in limiting demand 
->>energy service businesses at the retail consumer level
->>e-commerce for electricity
+>>- utility-owned generation and storage assets in customer locations 
+>>- third party owned assets
+>>- third party operated systems
+>>- peer-to-peer energy exchanges
+>>- revenue settlement systems 
+>>- strategic role of price discrimination in limiting demand 
+>>- energy service businesses at the retail consumer level
+>>- e-commerce for electricity
 
 >___The potential to reduce electricity demand via human mediation essentially remains untapped.___  A single, silver-bullet solution can not help realize the dramatic reductions in the electricity footprint necessary for resilience. An Urban Microgrid project will provide opportunities to explore solutions on the ground, and to develop demonstrations and narratives that support the transformation of the electricity infrastructure and consumer experience to realize overall GHG reduction.
 
