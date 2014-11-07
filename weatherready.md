@@ -10,12 +10,19 @@ The University of Wisconsin Department of Atmospheric Science is recognized as a
 It has long been established that building resilience requires ‘buy-in’ from the public. Successful communities have a populace and decision-making body that embraces the actions required to build resilience. A weather resilience research strategy for an urban setting would be as follows:
 
 >- Hazard Assessment - Building risk-based scenarios for various hazards that consider past trends and possible future conditions for a community.
+
 >>- Bring together experts in this area to build the most likely scenarios.
+
 >-Risk Identification - Identify what the current and future risks (social, economic, infrastructure) are to a community.
+
 >>- Work with the community to identify their assets.
+
 >- Risk Communication. (This is the most important step of all of the steps.) Researchers have to bring this information back to the community and communicate it in a way such that the risks are tangible.
+
 >>- Workshops, presentations, interactive web environments
+
 >- From Risk to Action. Researchers work with the community to identify a beginning to end strategy for implementing resilience based actions.  This involves discussing the projects, possible sources of funding, agencies that might help bring this action to completion. This could involve establishing a community-based planning team that’s ongoing focus is to actively pursue resilience projects.
+
 >>- Engage community leaders, local planning agencies, emergency management.
  
 
