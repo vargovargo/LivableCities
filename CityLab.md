@@ -1,10 +1,12 @@
 ###The next manifestation of [UW Livable Cities](LivableCitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
 
-Partnereships between university faculty and community stakeholders could be the key to changing cities for the better. Today these connections exist in peicemeal fashion and lack the funding mechanism to institutionalize them in real ways. 
+Partnerships between university faculty and community stakeholders could be the key to changing cities for the better. Today these connections exist in piecemeal fashion and lack the funding mechanisms to institutionalize them in real ways. 
 
 This example is common on campus. A local official runs into a faulty member at an event. This might lead to a follow up meeting and if the faculty member has a student to dedicate some time, the issues of the city/community may get some attention. After a semster, maybe two, the work is done. Despite the appreciation and need of the municipal leaders, the partnership may or may not pick up again with a new student or project. Big research proposals with dedicated community partnership components may not get funded because they are seen as too applied for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
 
-Two problems with this story must be resolved to create change for cities. First, the relationships between University and off-campus partners must be fostered in more permanent ways. Barriers in investment, communication and perceptions msut be overcome to make this happen. And second, the work must spread throughout the university and can not be limited to a single department or student – disciplinary must disappear. 
+Two problems with this story must be resolved to create change for cities. First, the relationships between University and off-campus partners must be fostered in more permanent ways. Barriers in investment, communication, and organizational perceptions must be overcome to make this happen. And second, the work must spread throughout the university and can not be limited to a single department or student – disciplinary must disappear. 
+
+------
 
 The City Lab model places faculty and students from several departments in a common space off-campus. __The goal is to foster the exchange and development of information, values, and skill between the University of Wisconsin and cities.__  Each City Lab will take the existing connections between faculty and cities to inform the focus of the work.  Over the course of (a semester?) one year the space will be used in diverse ways to explore and prototype solutions for implementation. The result will be stronger partnerships bewteen the univeristy and city to produce richer solutions. 
 
@@ -12,8 +14,9 @@ _Each City Lab Year will require_
 + work/meeting space that is inviting to community memebers and that will, idealy, stimulate new collaborations. Locations should be within the city, but off-campus. 
 + 3-5 faculty fellows and 3 citizen scholars for dedicated time and presence on the projects 
 + 1 new post-doc to push forward faculty/community ideas and generate new research frontiers
-+ 1 full-time communtiy-liason to help identify citzen scholars and promote events
++ 1 full-time communtiy-liason to help identify citizen scholars and promote events
 
+------
 
 ##City Lab Madison##
 __[Smart Growth](greeninf.md) - [Jim Lagro](http://www.wicci.wisc.edu/lagro.php) and [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)__
