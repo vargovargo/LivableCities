@@ -11,13 +11,13 @@ Two problems with this story must be resolved to create change for cities. First
 The City Lab model places faculty and students from several departments in a common space off-campus. __The goal is to foster the exchange and development of information, values, and skill between the University of Wisconsin and cities.__  Each City Lab will take the existing connections between faculty and cities to inform the focus of the work.  Over the course of (a semester?) one year the space will be used in diverse ways to explore and prototype solutions for implementation. The result will be stronger partnerships bewteen the univeristy and city to produce richer solutions. 
 
 _Each City Lab Year will require_
-+ work/meeting space that is inviting to community memebers and that will, idealy, stimulate new collaborations. Locations should be within the city, but off-campus. 
++ work/meeting space that is inviting to community memebers and that will, idealy, stimulate new collaborations. Locations should be within the city, but off-campus (_$36K - $60K/yr_)
 + 3-5 faculty fellows and 3 citizen scholars for dedicated time and presence on the projects - Buy out (5) faculty time @ 10% + fringe (_$120K_)
 + 1 new post-doc to push forward faculty/community ideas and generate new research frontiers + fringe (_$65K_)
 + 1 full-time communtiy-liason to help identify citizen scholars and promote events + fringe (_$70-$80K/yr_)
 + A new administrative manager dedicated to the operation and coordination of the Studio + fringe (_$70-$80K/yr_)
 + Two student hourlies for ~12hr/wk (_$15K/yr_)
-+ Meeting Costs (_$30K/yr_)
++ Meeting costs (_$30K/yr_)
 
 ------
 
