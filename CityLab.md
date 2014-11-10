@@ -45,6 +45,5 @@ __[Extreme Weather Resilience] - [Tracey Holloway](http://www.sage.wisc.edu/peop
 
 ##City Lab Bahir Dar (beginning Summer 2016)##
 __[Urban Growth in Emerging Economies] - [Jonanthan Patz](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) and [Bahir Dar University](http://www.bdu.edu.et/)__
->
-
+>Much of the urban growth on the planet will take place in cities of less than 1 million people and all of the urban development in human histroy will be duplicated in the next century. Ethiopia is one of the world's least, but most rapidly, urbanizing countries. Partnerships between [UW's Global Health Institute](http://ghi.wisc.edu/ghi-in-action/bringing-the-whole-university-to-ethiopia/) and Bahir Dar University provide the basis for massive capacity building efforts around urban development, the environment, health. Emerging interests between the universitys' agrciultutral units provide fertile ground for years of collaboration on a number of topics. 
 
