@@ -34,12 +34,12 @@ To foster the collaborations needed for urban innovation and success, Studios ar
 
 The Urban Studio will be conducted on annual basis with changing themes determined by the UW Livable Cities Coordinating Council. Each year the studio would concentrate on a theme of urban activity. Already, several themes have been identified for the first five (_5_) years of operation.
 
-+ [Local Motion -- Active Transport in Cities](StudioIntro.md#local-motion--active-transport-in-cities)
-+ [Weather Ready Cities](weatherready.md)
-+ [Food Systems](food.md)
-+ [Urban Microgrids](energy.md)
-+ [Closing the Loop on Urban Waste]()
-+ [Smart Growth / Green Infrastructure](greeninf.md)
++ [Local Motion -- Active Transport in Cities](StudioIntro.md#local-motion--active-transport-in-cities) - Phoenix, AZ
++ [Weather Ready Cities](weatherready.md) - Boulder, CO
++ [Food Systems](food.md) - Milwaukee, WI
++ [Urban Microgrids](energy.md) - New York, NY
++ [Closing the Loop on Urban Waste]() - 
++ [Smart Growth / Green Infrastructure](greeninf.md) - Madison, WI
 
 In addition to the Studios, each year a conference will be held in Madison, WI on urban issues and research. The conference serves three purposes
 
