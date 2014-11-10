@@ -1,4 +1,4 @@
-###The next manifestation of [UW Livable Cities](Livable CitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
+###The next manifestation of [UW Livable Cities](LivableCitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
 
 Partnereships between university faculty and community stakeholders could be the key to changing cities for the better. Today these connections exist in peicemeal fashion and lack the funding mechanism to institutionalize them in real ways. 
 
