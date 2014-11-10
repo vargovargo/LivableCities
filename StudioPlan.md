@@ -37,7 +37,7 @@ The Urban Studio will be conducted on annual basis with changing themes determin
 + [Local Motion -- Active Transport in Cities](StudioIntro.md#local-motion--active-transport-in-cities) - Phoenix, AZ
 + [Weather Ready Cities](weatherready.md) - Boulder, CO
 + [Food Systems](food.md) - Milwaukee, WI
-+ [Urban Microgrids](energy.md) - New York, NY
++ [Urban Microgrids](energy.md) - New York, NY &  Boulder, CO
 + [Closing the Loop on Urban Waste]() - 
 + [Smart Growth / Green Infrastructure](greeninf.md) - Madison, WI
 
