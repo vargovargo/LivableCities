@@ -8,9 +8,12 @@ Two problems with this story must be resolved to create change for cities. First
 
 The City Lab model places faculty and students from several departments in a common space off-campus. __The goal is to foster the exchange and development of information, values, and skill between the University of Wisconsin and cities.__  Each City Lab will take the existing connections between faculty and cities to inform the focus of the work.  Over the course of (a semester?) one year the space will be used in diverse ways to explore and prototype solutions for implementation. The result will be stronger partnerships bewteen the univeristy and city to produce richer solutions. 
 
-+ Each City Lab Year will select 5 faculty fellows and 3 citizen scholars for dedicated time and presence on the projects. 
+_Each City Lab Year will require_
++ work/meeting space that is inviting to community memebers and idealy will stimulate new collaborations. Locations should be within the city, but off-campus. 
++ 5 faculty fellows and 3 citizen scholars for dedicated time and presence on the projects 
++ 1 new post-doc to push forward faculty/community ideas and generate new research frontiers
++ 1 full-time communtiy-liason to help identify citzen scholars and promote events
 
-+ Each City Lab will sponsor 
 
 ##City Lab Madison##
 __[Smart Growth](greeninf.md) - [Jim Lagro](http://www.wicci.wisc.edu/lagro.php) and [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)__
@@ -22,6 +25,9 @@ __[Smart Growth](greeninf.md) - [Jim Lagro](http://www.wicci.wisc.edu/lagro.php)
 __[Food Systems](food.md) - [Steve Ventura](http://experts.news.wisc.edu/experts/727) and [Institute for Urban Agriculture and Nutrition (IUAN)](https://www.facebook.com/InstituteUrbanAgNutrition/info)__
 >Rust belt cities of the midwest, like Miwaukee, are becoming the hotbed of urban agriculture in the US. This City Lab build on the work of UW Madison on the development of the IUAN in Milwaukee. This is a unique collaboration between seven academic institutions, the City of Milwaukee, [Growing Power Inc.](http://www.growingpower.org/), and the [Milwaukee Food Council](http://www.milwaukeefoodcouncil.org/milwaukee_food_council/home.html) representing numerous community organizations. Furthermore, the UW-Madison has numerous professionals engaged in this research. Additionally, burgeoning connections to ogranizations like the [Center for Resilient Cities](http://www.resilientcities.org/) will expand the work to even more project sites and communities. 
 
+##City Lab Phoenix##
+__[Transportation] - [Eric Sundquist](http://experts.news.wisc.edu/experts/727) and [Institute for Urban Agriculture and Nutrition (IUAN)](https://www.facebook.com/InstituteUrbanAgNutrition/info)__
+>Rust belt
 
 
 
