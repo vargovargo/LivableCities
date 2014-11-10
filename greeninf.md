@@ -1,4 +1,4 @@
-#Smart Growth / Green Infrastructure
+Green Infrastructure - Madison
 
 __1) What are the major stakes of the problem/challenge; why does it number among the five most important problems in urban sustainability?__
 >For nearly six decades following World War II, the predominant land development paradigm in the U.S. has been sprawl (i.e., separated land uses, low-densities, auto-oriented).  Yet as the nation’s population has grown, a multitude of negative social, economic, and environmental impacts from sprawl became increasingly evident.  In the 1990s, “smart growth” – a new development paradigm (yet with traditional, pre-WWII roots) took hold in a handful of metro areas with high quality transit (e.g., Washington, D.C.).  Smart growth (e.g., New Urbanism, low-impact development, green infrastructure) offers the promise of a more livable, prosperous, and sustainable future.
