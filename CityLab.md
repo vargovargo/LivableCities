@@ -10,5 +10,5 @@ The City Lab model places faculty and students from several departments in a com
 
 
 ##Project 1
-##Madison - [Green Infrastructure](greeninf.md) - [Jim Lagro](http://www.wicci.wisc.edu/lagro.php) and [Capital Region Sustainable COmmunities](http://www.capitalregionscrpg.org/)
+__Madison - [Green Infrastructure](greeninf.md) - [Jim Lagro](http://www.wicci.wisc.edu/lagro.php) and [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)__
 
