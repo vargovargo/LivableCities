@@ -13,8 +13,11 @@ _How can we change this story?_ __Stop relying on chance encounters to do good w
 We propose a novel structure to place UW-Madison researchers and students on the ground in cities to __develop and maintain the connections__ necessary for positive change. UW representatives will be dispatched from Madison and embedded in urban laboratories - __"City Labs"__ - to convene with local citizens, organizations, governments, and businesses around specific topics related to urban sustainability. City Labs become the hubs of long-term collaboration and engagement by faculty, with staffing from junior faculty and students. 
 
 --------
+
 The City Lab model places faculty and students from several departments in a shared off-campus space. ___Like labs and centers on campus, this structure fosters the exchange and development of information, values, and skill between the University of Wisconsin and cities.___ Each City Lab will build on the existing connections between faculty and city partners to inform the focus of the work, while cultivating new relationships that would have been impossible previously. Over the course of each academic year, the space will be used to study problems and prototype solutions. During summers, workshops and visitor programs will ensure that host cities benefit from research and engagement of the global research community. The result will be cities that make decisions with advanced knowledge and research; students who have access to new issues and networks within Wisconsin and around the world; and researchers with support to produce relevant and adoptable solutions.
+
 ------
+
 ##What is a City Lab?##
 
 ###Science###
