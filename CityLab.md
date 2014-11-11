@@ -22,10 +22,17 @@ _Each City Lab Year will require_
 ------
 
 ##City Lab Madison (beginning Fall 2015)##
-__[Smart Growth](greeninf.md) - [Jim LaGro](http://www.wicci.wisc.edu/lagro.php) and [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)__
->This work will build on a recent visioning process conducted by Lagro and the CRSC, which identified [ecosystem services](http://www.capitalregionscrpg.org/?page_id=1295) as one of five key areas to focus on ahead of future growth. [Projects](http://www.capitalarearpc.org/FUDA.html) in Madison and surrounding communities to balance environmental quality and long-term growth are already underway and ready for the help of university resources. 
+__[Smart Growth](greeninf.md)__
+>This work will build on a recent visioning process conducted by Lagro and the CRSC, Their [Pathways to Regional Sustainability](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf) Report was recognized by the National Academies of Sciences as a model for regional sustainability planning. [Projects](http://www.capitalarearpc.org/FUDA.html) in Madison and surrounding communities to balance environmental quality and long-term growth are already underway and ready for the help of university resources. 
 
->The Madison City Lab has the chance to be part of a new redevelopment project which co-locates several private and non-profit environmental interests in the region. The project is built on the success of the developer's first ['Green Exchange' in Chicago](http://www.greenexchange.com/). The Green Exchange model fosters relationships among our tenants and will create channels for Livable Cities to improve lives for people in cities around the world.  Early tenants include individual and organizations in renewable energy, sustainable buildings, clean tech, and green business.  It is a unique chance to kick off the City Lab in union with several parallel efforts across the region. 
+_Potential Faculty Fellows_
+[Jim LaGro](http://www.wicci.wisc.edu/lagro.php)
+
+_Potential Citizen Scholars_
+[Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
+
+
+>The Madison City Lab has the chance to be part of a new redevelopment project which co-locates several private and non-profit environmental interests in the region. The project is built on the success of the developer's first ['Green Exchange' in Chicago](http://www.greenexchange.com/). The Green Exchange model fosters relationships among our tenants and will create channels for Livable Cities to improve lives for people in cities around the world.  Early tenants include companies and organizations working on renewable energy, sustainable buildings, clean tech, environmental policy, and green business.  It is a unique chance to kick off the City Lab in union with several parallel efforts across the region. 
 
 
 ##City Lab Milwaukee (beginning Fall 2015)##
