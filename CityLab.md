@@ -6,14 +6,31 @@ Advanced discovery and innovation offer exciting new pathways for healthy and su
 
 Unfortunately, to date these connections have existed in piecemeal - a single professor, for a few years.
 
-Consider a common story. A local official meets a professor or other UW researcher at an event, and the two exchange contact information. This might lead to a follow-up meeting, and - in the best case, donated time by the faculty member or a student. After a semester, maybe two, the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, these types of research-to-practice initiatives are rarely funded by cash-strapped local governments, and typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
+Consider a common story. A local official meets a professor at an event and the two exchange information. This might lead to a follow-up meeting, and - in the best case - to donated time by the faculty member or a student. After a semester or two the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, this type of research-to-practice is rarely funded by cash-strapped local governments, and is typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
 
-How can we change this story? First, relationships between University and off-campus partners must be fostered and supported, to build long-term trust and consistency. In addition, university structures should connect across the departments needed to tackle real-world problems.  
-
-
-We propose a novel structure to place UW-Madison researchers and students on the ground in cities to help solve problems and affect change. By establishing urban laboratories - "City Labs" - UW research and teaching could engage with local stakeholders and problems. These labs would become hubs to long-term collaboration and engagement by faculty, with staffing from graduate and undergraduate students through study-abroad-like engagement. 
+_How can we change this story?_ We propose a novel structure to place UW-Madison researchers and students on the ground in cities to develop and maintain the connections necessary for positive change. ___UW representatives will be dispatched from Madison and embedded in urban laboratories - __"City Labs"__ - to convene with local citizens, organizations, governments, and businesses around specific topics related to urban sustainability.___ City Labs become the hubs of long-term collaboration and engagement by faculty, with staffing from junior faculty and students. 
 
 --------
+
+##What is a City Lab?##
+
+###Science###
++ Each City lab has a __dedicated focus area__ related to urban sustainability
++ __Experts__ from UW, the lab's region, and broader scientific community will be convened in the lab periodically to exchange ideas, issues, and practices
++ community 
+
+###Place###
++ space for learning, meeting, and discussion
++ in the city 
++ off-campus
+
+###People###
++ lead senior faculty from UW with period trips to the Lab
++ junior faculty from UW system, in residence for 1 year terms
++ post-doctoral researchers in residence (under supervision of senior UW faculty)
++ students, in residence following academic calendar
++ lab 
+
 
 The City Lab model places faculty and students from several departments in a shared space off-campus. ___Like labs and centers on campus, this structure fosters the exchange and development of information, values, and skill between the University of Wisconsin and cities.___ Each City Lab will build on the existing connections between faculty and city partners to inform the focus of the work, while cultivating new relationships that would have been impossible from afar. Over the course of each academic year, the space will be used to study problems and prototype solutions. During summers, workshops and visitor programs will ensure that host cities benefit from research and engagement of the global research community. The result will be cities that make decisions with advanced knowledge and research; students who have access to new issues and networks within Wisconsin and around the world; and researchers with support to produce relevant and adoptable solutions.
 
