@@ -1,23 +1,24 @@
 ###The next manifestation of [UW Livable Cities](LivableCitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
 
-Partnerships between university faculty and community stakeholders could be the key to changing cities for the better. Today these connections exist in piecemeal fashion and lack the funding mechanisms to institutionalize them in real ways. 
+#Creating Livable Cities: Linking University of Wisconsin Research with Decision-Making and Development of Tomorrow's Cities#
+November 13, 2014
 
-This example is common on campus. A local official runs into a faulty member at an event. This might lead to a follow up meeting and if the faculty member has a student to dedicate some time, the issues of the city/community may get some attention. After a semester, maybe two, the work is done. Despite the appreciation and need of the municipal leaders, the partnership may or may not pick up again with a new student or project. Big research proposals with dedicated community partnership components may not get funded because they are seen as too applied for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
+Advanced discovery and innovation offer exciting new pathways for healthy and sustainable cities, in Wisconsin, the US, and worldwide. The University of Wisconsin-Madison is a leader in applied research, with a long track record of partnerships with decision-makers and community stakeholders. 
 
-Two problems with this story must be resolved to create change for cities. First, the relationships between University and off-campus partners must be fostered in more permanent ways. Barriers in investment, communication, and organizational perceptions must be overcome to make this happen. And second, the work must spread throughout the university and can not be limited to a single department or student – disciplinary must disappear. 
+Unfortunately, to date these connections have existed in piecemeal - a single professor, for a few years.
 
-------
+Consider a common scenario. A local official meets a professor or other UW researcher at an event, and the two exchange contact information. This might lead to a follow-up meeting, and - in the best case, donated time by the faculty member or a student. After a semester, maybe two, the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, these types of research-to-practice initiatives are rarely funded by cash-strapped local governments, and typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
 
-The City Lab model places faculty and students from several departments in a common space off-campus. __The goal is to foster the exchange and development of information, values, and skill between the University of Wisconsin and cities.__  Each City Lab will take the existing connections between faculty and cities to inform the focus of the work.  Over the course of a year the space will be used in diverse ways to explore and prototype solutions for implementation. The result will be stronger partnerships between the university and city to produce richer solutions. 
+How can we change this story? First, relationships between University and off-campus partners must be fostered and supported, to build long-term trust and consistency. In addition, university structures should connect across the departments needed to tackle real-world problems.  
 
-_Each City Lab Year will require_
-+ work/meeting space that is inviting to community members and that will, ideally, stimulate new collaborations. Locations should be within the city, but off-campus 
-+ 3-5 faculty fellows and 3 citizen scholars for dedicated time and presence on the projects 
-+ A new post-doc to push forward faculty/community ideas and generate new research frontiers  
-+ A full-time community-liaison to help identify citizen scholars and promote events  
-+ A new administrative manager dedicated to the operation and coordination of the Studio 
-+ Two student hourlies 
-+ Meeting costs 
+
+We propose a novel structure to place UW-Madison researchers and students on the ground in cities to help solve problems and affect change. By establishing urban laboratories - "City Labs" - UW research and teaching could engage with local stakeholders and problems. These labs would become hubs to long-term collaboration and engagement by faculty, with staffing from graduate and undergraduate students through study-abroad-like engagement. 
+
+--------
+
+The City Lab model places faculty and students from several departments in a shared space off-campus. ___Like labs and centers on campus, this structure fosters the exchange and development of information, values, and skill between the University of Wisconsin and cities.___ Each City Lab will build on the existing connections between faculty and city partners to inform the focus of the work, while cultivating new relationships that would have been impossible from afar. Over the course of each academic year, the space will be used to study problems and prototype solutions. During summers, workshops and visitor programs will ensure that host cities benefit from research and engagement of the global research community. The result will be cities that make decisions with advanced knowledge and research; students who have access to new issues and networks within Wisconsin and around the world; and researchers with support to produce relevant and adoptable solutions.
+
+
 
 ------
 
