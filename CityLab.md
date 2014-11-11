@@ -54,7 +54,7 @@ The City Lab model places faculty and students from several departments in a sha
 --------
 
 ##City Lab Madison (beginning Fall 2015)##
-__[Smart Growth](greeninf.md)__
+###Focus Area: [Smart Growth](greeninf.md)###
 >This work will build on a recent visioning process conducted by Lagro and the CRSC, Their [Pathways to Regional Sustainability](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf) Report was recognized by the National Academies of Sciences as a model for regional sustainability planning. [Projects](http://www.capitalarearpc.org/FUDA.html) in Madison and surrounding communities to balance environmental quality and long-term growth are already underway and ready for the help of university resources. 
 
 _Potential UW Scholars_
@@ -80,7 +80,7 @@ _Potential Metrics_
 
 
 ##City Lab Milwaukee (beginning Fall 2015)##
-__[Food Systems](food.md)__
+###Focus Area: [Food Systems](food.md)###
 >Rust belt cities of the Midwest, like Milwaukee, are becoming the hotbed of urban agriculture in the US. This City Lab build on the work of UW Madison on the development of the IUAN in Milwaukee. This is a unique collaboration between seven academic institutions, the City of Milwaukee, [Growing Power Inc.](http://www.growingpower.org/), and the [Milwaukee Food Council](http://www.milwaukeefoodcouncil.org/milwaukee_food_council/home.html) representing numerous community organizations. Furthermore, the UW-Madison has numerous professionals engaged in this research. Additionally, burgeoning connections to organizations like the Badger Rock Community Center, Badger Rock Middle School, and the [Center for Resilient Cities](http://www.resilientcities.org/) will expand the work to even more project sites and communities. 
 
 _Potential UW Scholars_
@@ -100,7 +100,7 @@ municipality)
 + Number of community supported agriculture (CSA) operations (by county)
 
 ##City Lab Phoenix (beginning Fall 2016)##
-__Transportation__
+###Focus Area: Transportation###
 >For many decades, transportation planning has assumed continued increases in automobile use. Now, in a major reversal, the average American is driving considerably less. [SSTI is already helping](http://www.ssti.us/2013/09/vmt-inflection-point-factors-affecting-21st-century-travel-ssti-2013/) cities and states change their thinking to make the most of this trend. UW resources like [The Mayor’s Innovation Project](http://www.mayorsinnovation.org/), based at UW’s [Center on Wisconsin Strategy](http://www.cows.org/) provides access to a network of leaders throughout the country from which to draw input and to promote successes. Their partnerships in Phoenix, AZ and Boulder/Denver, CO make up the foundation for this Lab's success, and will likely be integral to the pursuing all City Lab ventures. 
 
 _Potential UW Scholars_
@@ -121,7 +121,7 @@ _Potential Metrics_
 
 
 ##City Lab Boulder (beginning Fall 2017)##
-__[Microgrids](energy.md) -  and [Wisconsin Energy Institute]()__
+###Focus Area: [Microgrids](energy.md)###
 >Any significant reduction in urban carbon emissions will have to include a reduction in electricity footprint. Technically viable solutions for integrating distributed generation and storage resources with the utility grid and automated demand response systems exist. They are called microgrids. The remaining central challenge is in integrating these technical solutions within the regulatory public utility paradigm. UW's [Bob Lasseter](http://directory.engr.wisc.edu/ece/faculty/lasseter_robert) is an established pioneer and leader in the area of microgrids research, development and technology transfer. His work, [adopted in western states](http://www.news.wisc.edu/20470), and his involvement with the [Power Systems Engineering Research Center](www.pserc.org) in Arizona make expanding similar projects to many cities a real possibility. This effort also has application in developing countries (see [last activity below](https://github.com/vargovargo/LivableCities/blob/master/CityLab.md#city-lab-bahir-dar-beginning-summer-2016) with Professor Patz).
 
 _Potential UW Scholars_
@@ -136,7 +136,7 @@ _Potential Community Scholars_
 + [Power Systems Engineering Research Center](www.pserc.org)
 
 
-__[Extreme Weather Resilience](weatherready.md) -  and [NCAR Earth System Laboratory](http://www.nesl.ucar.edu/about)__
+###Focus Area: [Extreme Weather Resilience](weatherready.md)###
 >Climate change is affecting the scope and scale of natural hazards such as hurricanes, tornadoes, and winter storms. The [costs of these disasters are increasing](http://www.ncdc.noaa.gov/billions/time-series), and as urban areas continue to expand, the changes to these hazards will continue to impact more people every year unless communities begin to consider the future conditions. A major problem with the process that many communities use as a benchmark for increasing their resilience is a lack of considering the potential changes to future weather scenarios. Activities between UW and partners across the country were recently mobilized towards a highly competitive NSF proposal; while the proposal received excellent reviews, it was not funded; the extensive planning and preparation, however, provides substantial and timely inertia for UW to help cities on this issue. 
 
 _Potential UW Scholars_
@@ -144,11 +144,11 @@ _Potential UW Scholars_
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 
 _Potential Community Scholars_
-+ 
++  [NCAR Earth System Laboratory](http://www.nesl.ucar.edu/about)__
 
 
 ##City Lab Bahir Dar (beginning Summer 2016)##
-__Urban Growth in Emerging Economies__
+###Focus Area: Urban Growth in Emerging Economies###
 >Much of the urban growth on the planet will take place in cities of less than 1 million people and all of the urban development in human history will be duplicated in the next century. Ethiopia is one of the world's least, but most rapidly, urbanizing countries. Partnerships between [UW's Global Health Institute](http://ghi.wisc.edu/ghi-in-action/bringing-the-whole-university-to-ethiopia/) and Bahir Dar University (BDU) provide the basis for massive capacity building efforts around urban development, the environment, and health. Emerging interests between BDU’s agricultural and engineering units provide fertile ground for years of collaboration on a number of topics.  The timing of a newly awarded USAID “Power Africa” grant to BDU (with UW’s School of Engineering and GHI as the US partners) to establish a microgrid power “Center of Excellence” along with professor Patz’s Fulbright Award to spend Spring, 2015, at BDU is opportune.  
 
 _Potential UW Scholars_
