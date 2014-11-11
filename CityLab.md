@@ -26,11 +26,18 @@ __[Smart Growth](greeninf.md)__
 >This work will build on a recent visioning process conducted by Lagro and the CRSC, Their [Pathways to Regional Sustainability](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf) Report was recognized by the National Academies of Sciences as a model for regional sustainability planning. [Projects](http://www.capitalarearpc.org/FUDA.html) in Madison and surrounding communities to balance environmental quality and long-term growth are already underway and ready for the help of university resources. 
 
 _Potential Faculty Fellows_
-[Jim LaGro](http://www.wicci.wisc.edu/lagro.php)
+
+[Jim LaGro](http://www.wicci.wisc.edu/lagro.php) - [URPL](http://urpl.wisc.edu/)
+[Aslıgül Göçmen](http://urpl.wisc.edu/people/gocmen/) - [URPL](http://urpl.wisc.edu/)
+[Chris Kucharik](http://www.sage.wisc.edu/people/kucharik/kucharik.html) - [SAGE - Nelson](http://www.sage.wisc.edu/)
+[Michaell Bell](http://dces.wisc.edu/people/faculty/michael-bell/) - [Commun. & Envir. Sociology](http://dces.wisc.edu/)
+[Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
 
 _Potential Citizen Scholars_
-[Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
 
+Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
+[Sustain Dane](http://www.sustaindane.org/)
+Lisa MacKinnon - [Dane County Board of Supervisors -Sustainability Coordinator](https://www.countyofdane.com/board/)
 
 >The Madison City Lab has the chance to be part of a new redevelopment project which co-locates several private and non-profit environmental interests in the region. The project is built on the success of the developer's first ['Green Exchange' in Chicago](http://www.greenexchange.com/). The Green Exchange model fosters relationships among our tenants and will create channels for Livable Cities to improve lives for people in cities around the world.  Early tenants include companies and organizations working on renewable energy, sustainable buildings, clean tech, environmental policy, and green business.  It is a unique chance to kick off the City Lab in union with several parallel efforts across the region. 
 
