@@ -20,9 +20,9 @@ _How can we change this story?_ We propose a novel structure to place UW-Madison
 + community 
 
 ###Place###
-+ space for learning, meeting, and discussion
-+ in the city 
-+ off-campus
++ __in the city:__ involved and contributing to placemaking
++ __off-campus:__ an inviting community resource
++ __flexible:__ a space for invention, instruction, critique, and discourse
 
 ###People###
 + lead senior faculty from UW with period trips to the Lab
