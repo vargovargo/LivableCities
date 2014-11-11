@@ -103,12 +103,11 @@ municipality)
 __Transportation__
 >For many decades, transportation planning has assumed continued increases in automobile use. Now, in a major reversal, the average American is driving considerably less. [SSTI is already helping](http://www.ssti.us/2013/09/vmt-inflection-point-factors-affecting-21st-century-travel-ssti-2013/) cities and states change their thinking to make the most of this trend. UW resources like [The Mayor’s Innovation Project](http://www.mayorsinnovation.org/), based at UW’s [Center on Wisconsin Strategy](http://www.cows.org/) provides access to a network of leaders throughout the country from which to draw input and to promote successes. Their partnerships in Phoenix, AZ and Boulder/Denver, CO make up the foundation for this Lab's success, and will likely be integral to the pursuing all City Lab ventures. 
 
-_Potential Faculty Fellows_
+_Potential UW Scholars_
 + [Joel Rogers](http://www.ssti.us/about-ssti/expert-and-staff-bios/joel-rogers/) - [State Smart Transportation Initiative](http://www.ssti.us/)
 + [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/)
 + [Teresa Adams](http://directory.engr.wisc.edu/cee/faculty/adams_teresa) - [Civil & Envir. Engineering](http://www.engr.wisc.edu/cee.html)
-+ 
-
+ 
 _Potential Community Scholars_
 + 
 
@@ -165,6 +164,8 @@ _Potential Community Scholars_
 
 
 
+<!--- 
+
 --------
 
 _Each City Lab Year will require_
@@ -177,3 +178,4 @@ _Each City Lab Year will require_
 + Meeting costs (_$30K/yr_)
 
 ------
+--->
