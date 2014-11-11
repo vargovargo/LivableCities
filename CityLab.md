@@ -1,13 +1,12 @@
 ###The next manifestation of [UW Livable Cities](LivableCitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
 
 #Creating Livable Cities: Linking University of Wisconsin Research with Decision-Making and Development of Tomorrow's Cities#
-November 13, 2014
 
 Advanced discovery and innovation offer exciting new pathways for healthy and sustainable cities, in Wisconsin, the US, and worldwide. The University of Wisconsin-Madison is a leader in applied research, with a long track record of partnerships with decision-makers and community stakeholders. 
 
 Unfortunately, to date these connections have existed in piecemeal - a single professor, for a few years.
 
-Consider a common scenario. A local official meets a professor or other UW researcher at an event, and the two exchange contact information. This might lead to a follow-up meeting, and - in the best case, donated time by the faculty member or a student. After a semester, maybe two, the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, these types of research-to-practice initiatives are rarely funded by cash-strapped local governments, and typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
+Consider a common story. A local official meets a professor or other UW researcher at an event, and the two exchange contact information. This might lead to a follow-up meeting, and - in the best case, donated time by the faculty member or a student. After a semester, maybe two, the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, these types of research-to-practice initiatives are rarely funded by cash-strapped local governments, and typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
 
 How can we change this story? First, relationships between University and off-campus partners must be fostered and supported, to build long-term trust and consistency. In addition, university structures should connect across the departments needed to tackle real-world problems.  
 
