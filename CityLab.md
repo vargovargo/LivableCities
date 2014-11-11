@@ -62,7 +62,7 @@ __Transportation__
 _Potential Faculty Fellows_
 + [Joel Rogers](http://www.ssti.us/about-ssti/expert-and-staff-bios/joel-rogers/) - [State Smart Transportation Initiative](http://www.ssti.us/)
 + [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/)
-+ [Teresa Adams](http://directory.engr.wisc.edu/cee/faculty/adams_teresa) - [Civil $ Envir. Engineering](http://www.engr.wisc.edu/cee.html)
++ [Teresa Adams](http://directory.engr.wisc.edu/cee/faculty/adams_teresa) - [Civil & Envir. Engineering](http://www.engr.wisc.edu/cee.html)
 + 
 
 _Potential Citizen Scholars_
@@ -76,9 +76,10 @@ __[Microgrids](energy.md) -  and [Wisconsin Energy Institute]()__
 _Potential Faculty Fellows_
 + [Mike Corradini](http://energy.wisc.edu/about/energy-experts/michael-corradini) - [Wisconsin Energy Institute](http://energy.wisc.edu/)
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
-<!--- + [Giri Venekataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Elec. & Comp. Engineering](http://www.engr.wisc.edu/ece.html)--->
 + [Paul Wislon](https://directory.engr.wisc.edu/ep/faculty/wilson_paul) - [Advanced Computing Infrastructure](http://aci.wisc.edu/)
 + [Greg Nemet](http://www.lafollette.wisc.edu/faculty-staff/faculty/gregory-f-nemet) - [La Follette](http://www.lafollette.wisc.edu/index.php)
+
+<!--- + [Giri Venekataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Elec. & Comp. Engineering](http://www.engr.wisc.edu/ece.html)--->
 
 _Potential Citizen Scholars_
 + [Power Systems Engineering Research Center](www.pserc.org)
@@ -89,13 +90,28 @@ __[Extreme Weather Resilience](weatherready.md) -  and [NCAR Earth System Labora
 
 _Potential Faculty Fellows_
 + [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/)
++ [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
+
+_Potential Citizen Scholars_
++ 
+
 
 ##City Lab Bahir Dar (beginning Summer 2016)##
-__Urban Growth in Emerging Economies -  and [Bahir Dar University](http://www.bdu.edu.et/)__
+__Urban Growth in Emerging Economies__
 >Much of the urban growth on the planet will take place in cities of less than 1 million people and all of the urban development in human history will be duplicated in the next century. Ethiopia is one of the world's least, but most rapidly, urbanizing countries. Partnerships between [UW's Global Health Institute](http://ghi.wisc.edu/ghi-in-action/bringing-the-whole-university-to-ethiopia/) and Bahir Dar University (BDU) provide the basis for massive capacity building efforts around urban development, the environment, and health. Emerging interests between BDU’s agricultural and engineering units provide fertile ground for years of collaboration on a number of topics.  The timing of a newly awarded USAID “Power Africa” grant to BDU (with UW’s School of Engineering and GHI as the US partners) to establish a microgrid power “Center of Excellence” along with professor Patz’s Fulbright Award to spend Spring, 2015, at BDU is opportune.  
 
 _Potential Faculty Fellows_
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
++ [Giri Venekataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Elec. & Comp. Engineering](http://www.engr.wisc.edu/ece.html)
++ [Jeremy Foltz](http://www.aae.wisc.edu/faculty/jdfoltz) - [Ag. & Applied Econ.](http://www.aae.wisc.edu/)
++ [Kent Weigel](http://experts.news.wisc.edu/experts/438) - [Dairy Science](http://dysci.wisc.edu/)
++ [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
+
+_Potential Citizen Scholars_
++ Baylie Damtie - [President, Bahir Dar University](http://www.bdu.edu.et/)
++ Rahel Desalegne - [Safe Roads to Health](http://www.saferoadstohealth.org/)
+
+
 
 --------
 
