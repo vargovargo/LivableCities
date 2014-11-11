@@ -26,7 +26,6 @@ __[Smart Growth](greeninf.md)__
 >This work will build on a recent visioning process conducted by Lagro and the CRSC, Their [Pathways to Regional Sustainability](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf) Report was recognized by the National Academies of Sciences as a model for regional sustainability planning. [Projects](http://www.capitalarearpc.org/FUDA.html) in Madison and surrounding communities to balance environmental quality and long-term growth are already underway and ready for the help of university resources. 
 
 _Potential Faculty Fellows_
-
 + [Jim LaGro](http://www.wicci.wisc.edu/lagro.php) - [URPL](http://urpl.wisc.edu/)
 + [Aslıgül Göçmen](http://urpl.wisc.edu/people/gocmen/) - [URPL](http://urpl.wisc.edu/)
 + [Chris Kucharik](http://www.sage.wisc.edu/people/kucharik/kucharik.html) - [SAGE - Nelson](http://www.sage.wisc.edu/)
@@ -34,7 +33,6 @@ _Potential Faculty Fellows_
 + [Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
 
 _Potential Citizen Scholars_
-
 + Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
 + [Sustain Dane](http://www.sustaindane.org/)
 + Lisa MacKinnon - [Dane County Board of Supervisors -Sustainability Coordinator](https://www.countyofdane.com/board/)
