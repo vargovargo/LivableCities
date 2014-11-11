@@ -42,10 +42,12 @@ _How can we change this story?_ We propose a novel structure to place UW-Madison
 + regular convening of stakeholders on specific Lab focus area
 + tracking progress on mutually defined metrics and objectives
 + incubator for new policy and technology prototyping 
-+ inventive use of the space and expertise
-> + hackathons
-> + town halls
-> + maker space
++ inventive use of the space and expertise+ 
+
+>+ hackathons
+>+ town halls
+>+ maker space
+
 + citizen science
 
 --------
