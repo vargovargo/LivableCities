@@ -1,14 +1,14 @@
 ###The next manifestation of [UW Livable Cities](LivableCitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
 
-#Creating Livable Cities: Linking University of Wisconsin Research with Decision-Making and Development of Tomorrow's Cities#
+#Livable Cities: Linking University of Wisconsin Science with Urban Decision-Making#
 
 Advanced discovery and innovation offer exciting new pathways for healthy and sustainable cities, in Wisconsin, the US, and worldwide. The University of Wisconsin-Madison is a leader in applied research, with a long track record of partnerships with decision-makers and community stakeholders. 
 
-Unfortunately, to date these connections have existed in piecemeal - a single professor, for a few years.
+Unfortunately, these connections are piecemeal rather than institutionalized - a single professor, for a few years.
 
-Consider a common story. A local official meets a professor at an event and the two exchange information. This might lead to a follow-up meeting, and - in the best case - to donated time by the faculty member or a student. After a semester or two the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, this type of research-to-practice is rarely funded by cash-strapped local governments, and is typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
+Consider this common story. A local official meets a professor at an event and the two exchange information. This might lead to a follow-up meeting, and - in the best case - to donated time by the faculty member or a student. After a semester or two the initial work is done, and the student graduates, or the researcher moves on to new projects. Although often transformative, this type of research-to-practice is rarely funded by cash-strapped local governments, and is typically viewed as "too applied" for funding from large scientific organizations (this was exactly the case with a recent UW proposal to the National Science Foundation around Weather Resilient Cities).
 
-_How can we change this story?_ We propose a novel structure to place UW-Madison researchers and students on the ground in cities to develop and maintain the connections necessary for positive change. ___UW representatives will be dispatched from Madison and embedded in urban laboratories - "City Labs" - to convene with local citizens, organizations, governments, and businesses around specific topics related to urban sustainability.___ City Labs become the hubs of long-term collaboration and engagement by faculty, with staffing from junior faculty and students. 
+_How can we change this story?_ We propose a novel structure to place UW-Madison researchers and students on the ground in cities to __develop and maintain the connections__ necessary for positive change. UW representatives will be dispatched from Madison and embedded in urban laboratories - __"City Labs"__ - to convene with local citizens, organizations, governments, and businesses around specific topics related to urban sustainability. City Labs become the hubs of long-term collaboration and engagement by faculty, with staffing from junior faculty and students. 
 
 --------
 
@@ -17,7 +17,7 @@ _How can we change this story?_ We propose a novel structure to place UW-Madison
 ###Science###
 + Each City lab has a __dedicated focus area__ related to urban sustainability
 + __Experts__ from UW, the lab's region, and broader scientific community will be convened in the lab periodically to exchange ideas, issues, and practices
-+ community 
++ The Lab's work will produce new data and analyses for decision makers, and empower citizen science 
 
 ###Place###
 + __in the city:__ involved and contributing to placemaking
