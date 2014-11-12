@@ -146,7 +146,7 @@ _Potential Metrics_
 
 
 ##City Lab [Extreme Weather Resilience](weatherready.md)##
-###Potential Location: New York City, NY (beginning Fall 2017)###
+###Potential Location: New York City, NY; Boulder, CO (beginning Fall 2017)###
 >Climate change is affecting the scope and scale of natural hazards such as hurricanes, tornadoes, and winter storms. The [costs of these disasters are increasing](http://www.ncdc.noaa.gov/billions/time-series), and as urban areas continue to expand, the changes to these hazards will continue to impact more people every year unless communities begin to consider the future conditions. A major problem with the process that many communities use as a benchmark for increasing their resilience is a lack of considering the potential changes to future weather scenarios. Activities between UW and partners across the country were recently mobilized towards a highly competitive NSF proposal; while the proposal received excellent reviews, it was not funded; the extensive planning and preparation, however, provides substantial and timely inertia for UW to help cities on this issue. 
 
 _Potential UW Scholars_
