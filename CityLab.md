@@ -121,7 +121,7 @@ _Potential Metrics_
 
 
 ##City Lab [Energy](energy.md)##
-###Potential Location: Boulder, CO (beginning Fall 2017)###
+###Potential Location: Boulder, CO; Sacramento, CA; Davis, CA; Palo Alto, CA (beginning Fall 2017)###
 >Any significant reduction in urban carbon emissions will have to include a reduction in electricity footprint. Technically viable solutions for integrating distributed generation and storage resources with the utility grid and automated demand response systems exist. They are called microgrids. The remaining central challenge is in integrating these technical solutions within the regulatory public utility paradigm. UW's [Bob Lasseter](http://directory.engr.wisc.edu/ece/faculty/lasseter_robert) is an established pioneer and leader in the area of microgrids research, development and technology transfer. His work, [adopted in western states](http://www.news.wisc.edu/20470), and his involvement with the [Power Systems Engineering Research Center](www.pserc.org) in Arizona make expanding similar projects to many cities a real possibility. This effort also has application in developing countries (see [last activity below](https://github.com/vargovargo/LivableCities/blob/master/CityLab.md#city-lab-bahir-dar-beginning-summer-2016) with Professor Patz).
 
 _Potential UW Scholars_
@@ -134,6 +134,16 @@ _Potential UW Scholars_
 
 _Potential Community Scholars_
 + [Power Systems Engineering Research Center](www.pserc.org)
++ [Grid Alternatives](http://www.gridalternatives.org/)
+ 
+
+<!---we could partner with Grid Alternatives in our target city, which installs solar panels on low-income homes, in promotes diversity in the solar work force. Grid Alternatives has a range of programs for college students and recent grads, but has never had a formal partnership with a university. I've been in touch with their CEO and the director of their Spring Break program about developing a curriculum that integrates energy technology, energy policy, and social justice issues, and City Lab Energy could be the site of this program. That would be a very close connection between roof-top solar and our UW engagement)--->
+
+_Potential Metrics_
++ per-capita energy consumption
++ CO2 emissions
++ roof-top solar systems installed 
+
 
 ##City Lab [Extreme Weather Resilience](weatherready.md)##
 ###Potential Location: New York City, NY (beginning Fall 2017)###
