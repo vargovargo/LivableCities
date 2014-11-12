@@ -161,6 +161,7 @@ _Potential UW Scholars_
 
 _Potential Community Scholars_
 + Baylie Damtie - [President, Bahir Dar University](http://www.bdu.edu.et/)
++ Bekele Negussie - [Deputy Director General, Ethiopian Roads Authority](http://www.era.gov.et/)
 + Rahel Desalegne - [Safe Roads to Health](http://www.saferoadstohealth.org/)
 
 
