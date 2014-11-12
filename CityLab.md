@@ -144,7 +144,7 @@ _Potential UW Scholars_
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 
 _Potential Community Scholars_
-+  [NCAR Earth System Laboratory](http://www.nesl.ucar.edu/about)__
++ [NCAR Earth System Laboratory](http://www.nesl.ucar.edu/about)
 
 
 ##City Lab Bahir Dar (beginning Summer 2016)##
@@ -153,10 +153,11 @@ _Potential Community Scholars_
 
 _Potential UW Scholars_
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
-+ [Giri Venekataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Elec. & Comp. Engineering](http://www.engr.wisc.edu/ece.html)
-+ [Jeremy Foltz](http://www.aae.wisc.edu/faculty/jdfoltz) - [Ag. & Applied Econ.](http://www.aae.wisc.edu/)
 + [Kent Weigel](http://experts.news.wisc.edu/experts/438) - [Dairy Science](http://dysci.wisc.edu/)
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
+
+<!---+ [Giri Venekataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Elec. & Comp. Engineering](http://www.engr.wisc.edu/ece.html)
++ [Jeremy Foltz](http://www.aae.wisc.edu/faculty/jdfoltz) - [Ag. & Applied Econ.](http://www.aae.wisc.edu/)--->
 
 _Potential Community Scholars_
 + Baylie Damtie - [President, Bahir Dar University](http://www.bdu.edu.et/)
