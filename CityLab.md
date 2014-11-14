@@ -20,36 +20,23 @@ The City Lab model places faculty and students from several departments in a sha
 
 ##What is a City Lab?##
 
-###Science###
+###Basics###
 + Each City lab has a dedicated focus area related to urban sustainability
-+ Experts from UW, the lab's region, and broader scientific community will be convened in the lab periodically to exchange ideas, issues, and practices
 + The Lab's work will produce new data and analyses for decision makers, and empower citizen science 
++ Experts from UW, the lab's region, and broader scientific community will be convened in the lab to exchange ideas, issues, and practices
 
-###Place###
-+ in the city: involved and contributing to placemaking
-+ off-campus: an inviting community resource
-+ flexible: a space for invention, instruction, critique, and discourse
 
-###Community###
-+ citizens
-+ local and regional governments and agencies
-+ neighboring universities and scientific institutions
-+ regional business partners
-+ not-for-profit organizations and advocacy groups
+###Research Hubs###
++ each lab will address a cross-cutting issue (transportation, energy, food, infrastructure, etc.)
++ located in "hot spots" where UW researchers can study the problems and test out solutions
++ off-campus sites offer attracted "study abroad" options for students to engage in problem solving on livable cities
 
 ###Connections###
-+ regular convening of stakeholders on the Lab's focus area
++ regular convening of community partners, businesses, researchers, etc.
 + tracking progress on mutually-defined metrics and objectives
 + incubator for new policy and technology prototyping and testing
-+ inventive use of the space and expertise 
-+ citizen science
-
-###Personnel###
-+ lead senior faculty from UW with period trips to the Lab (multi-year appointment)
-+ junior faculty from UW system, in residence for 1 year terms
-+ post-doctoral researchers in residence (under supervision of senior UW faculty)
-+ students, in residence following academic calendar
-+ lab coordinator (full time staff for the Lab)
++ link with UW-Madison research and teaching, and other City Labs
++ typical staffing – lead senior faculty, one-year resident research fellow, post-docs, students-in-residence, lab coordinator
 
 --------
 
