@@ -1,6 +1,6 @@
 ###The next manifestation of [UW Livable Cities](LivableCitiesOriginal.md) and the previous [studio concept](StudioPlan.md)
 
-#Livable Cities: Linking University of Wisconsin Science with Urban Decision-Making#
+#Livable Cities: Linking Advanced Research with Real-World Decisions#
 
 Advanced discovery and innovation offer exciting new pathways for healthy and sustainable cities, in Wisconsin, the US, and worldwide. The University of Wisconsin-Madison is a leader in applied research, with a long track record of partnerships with decision-makers and community stakeholders. 
 
@@ -14,7 +14,7 @@ We propose a novel structure to place UW-Madison researchers and students on the
 
 --------
 
-The City Lab model places faculty and students from several departments in a shared off-campus space. ___Like labs and centers on campus, this structure fosters the exchange and development of information, values, and skill between the University of Wisconsin and cities.___ Each City Lab will build on the existing connections between faculty and city partners to inform the focus of the work, while cultivating new relationships that would have been impossible previously. Over the course of each academic year, the space will be used to study problems and prototype solutions. During summers, workshops and visitor programs will ensure that host cities benefit from research and engagement of the global research community. The result will be cities that make decisions with advanced knowledge and research; students who have access to new issues and networks within Wisconsin and around the world; and researchers with support to produce relevant and adoptable solutions.
+The City Lab model places faculty and students from several departments in a shared off-campus space. ___Like labs and centers on campus, this structure fosters the exchange and development of information, values, and skills between the University of Wisconsin and rapidly changing cities.___ Each City Lab will build on the existing connections between faculty and city partners to inform the focus of the work, while cultivating new relationships that would have been impossible previously. Over the course of each academic year, the space will be used to study problems and prototype solutions. During summers, workshops and visitor programs will ensure that host cities benefit from research and engagement of the global research community. The result will be cities that make decisions with advanced knowledge and research; students who have access to new issues and networks within Wisconsin and around the world; and researchers with support to produce relevant and adoptable solutions.
 
 ------
 
@@ -54,7 +54,7 @@ The City Lab model places faculty and students from several departments in a sha
 --------
 
 ##City Lab [Smart Growth](greeninf.md)##
-###Potential Location: Madison, WI  (beginning Fall 2015)###
+__Potential Location: Madison, WI  (beginning Fall 2015)__
 >This work will build on a recent visioning process conducted by Lagro and the CRSC, Their [Pathways to Regional Sustainability](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf) Report was recognized by the National Academies of Sciences as a model for regional sustainability planning. [Projects](http://www.capitalarearpc.org/FUDA.html) in Madison and surrounding communities to balance environmental quality and long-term growth are already underway and ready for the help of university resources. 
 
 _Potential UW Scholars_
@@ -80,7 +80,7 @@ _Potential Metrics_
 
 <!---
 ##City Lab [Buildings](buildingblocks.md)##
-###Potential Location: Madison, WI  (beginning Fall 2016, in Partnership with Building Blocks at UCSC and MIT)###
+__Potential Location: Madison, WI  (beginning Fall 2016, in Partnership with Building Blocks at UCSC and MIT)__
 >Existing structures are old and failing, money to repair and replace is scarce, and knowledge and political will to move forward in a more sustainable way is lacking. In this context, the Building Blocks Initiative employs advanced building technologies and big data to improve the sustainability of infrastructure and the built environment. In doing so, Building Blocks breaks down the barriers between urban systems (e.g. energy and water), buildings, and properties to promote increased sustainability, resilience, and community. Building Blocks emphasizes that projects serve as learning spaces for training and innovation – a necessary, but missing, component for facilitating the spread and adoption of sustainable practices. 
 
 _Potential UW Scholars_
@@ -99,7 +99,7 @@ _Potential Metrics_
 
 
 ##City Lab [Food Systems](food.md)##
-###Potential Locaiton: Milwaukee, WI (beginning Fall 2015)###
+__Potential Locaiton: Milwaukee, WI (beginning Fall 2015)__
 >Rust belt cities of the Midwest, like Milwaukee, are becoming the hotbed of urban agriculture in the US. This City Lab build on the work of UW Madison on the development of the IUAN in Milwaukee. This is a unique collaboration between seven academic institutions, the City of Milwaukee, [Growing Power Inc.](http://www.growingpower.org/), and the [Milwaukee Food Council](http://www.milwaukeefoodcouncil.org/milwaukee_food_council/home.html) representing numerous community organizations. Furthermore, the UW-Madison has numerous professionals engaged in this research. Additionally, burgeoning connections to organizations like the Badger Rock Community Center, Badger Rock Middle School, and the [Center for Resilient Cities](http://www.resilientcities.org/) will expand the work to even more project sites and communities. 
 
 _Potential UW Scholars_
@@ -119,7 +119,7 @@ municipality)
 + Number of community supported agriculture (CSA) operations (by county)
 
 ##City Lab Transportation##
-###Potential Location: Phoenix, AZ (beginning Fall 2016)###
+__Potential Location: Los Angeles, CA; Phoenix, AZ (beginning Fall 2016)
 >For many decades, transportation planning has assumed continued increases in automobile use. Now, in a major reversal, the average American is driving considerably less. [SSTI is already helping](http://www.ssti.us/2013/09/vmt-inflection-point-factors-affecting-21st-century-travel-ssti-2013/) cities and states change their thinking to make the most of this trend. UW resources like [The Mayor’s Innovation Project](http://www.mayorsinnovation.org/), based at UW’s [Center on Wisconsin Strategy](http://www.cows.org/) provides access to a network of leaders throughout the country from which to draw input and to promote successes. Their partnerships in Phoenix, AZ and Boulder/Denver, CO make up the foundation for this Lab's success, and will likely be integral to the pursuing all City Lab ventures. 
 
 _Potential UW Scholars_
@@ -140,7 +140,7 @@ _Potential Metrics_
 
 
 ##City Lab [Energy](energy.md)##
-###Potential Location: Boulder, CO; Sacramento, CA; Davis, CA; Palo Alto, CA (beginning Fall 2017)###
+__Potential Location: Boulder, CO; Sacramento, CA; Davis, CA; Palo Alto, CA (beginning Fall 2017)__
 >Any significant reduction in urban carbon emissions will have to include a reduction in electricity footprint. Technically viable solutions for integrating distributed generation and storage resources with the utility grid and automated demand response systems exist. They are called microgrids. The remaining central challenge is in integrating these technical solutions within the regulatory public utility paradigm. UW's [Bob Lasseter](http://directory.engr.wisc.edu/ece/faculty/lasseter_robert) is an established pioneer and leader in the area of microgrids research, development and technology transfer. His work, [adopted in western states](http://www.news.wisc.edu/20470), and his involvement with the [Power Systems Engineering Research Center](www.pserc.org) in Arizona make expanding similar projects to many cities a real possibility. This effort also has application in developing countries (see [last activity below](https://github.com/vargovargo/LivableCities/blob/master/CityLab.md#city-lab-bahir-dar-beginning-summer-2016) with Professor Patz).
 
 _Potential UW Scholars_
@@ -165,7 +165,7 @@ _Potential Metrics_
 
 
 ##City Lab [Extreme Weather Resilience](weatherready.md)##
-###Potential Location: New York City, NY; Boulder, CO (beginning Fall 2017)###
+__Potential Location: New York City, NY; Boulder, CO (beginning Fall 2017)__
 >Climate change is affecting the scope and scale of natural hazards such as hurricanes, tornadoes, and winter storms. The [costs of these disasters are increasing](http://www.ncdc.noaa.gov/billions/time-series), and as urban areas continue to expand, the changes to these hazards will continue to impact more people every year unless communities begin to consider the future conditions. A major problem with the process that many communities use as a benchmark for increasing their resilience is a lack of considering the potential changes to future weather scenarios. Activities between UW and partners across the country were recently mobilized towards a highly competitive NSF proposal; while the proposal received excellent reviews, it was not funded; the extensive planning and preparation, however, provides substantial and timely inertia for UW to help cities on this issue. 
 
 _Potential UW Scholars_
@@ -177,7 +177,7 @@ _Potential Community Scholars_
 
 
 ##City Lab Urbanization##
-###Potential Location: Bahir Dar, Ethiopia (beginning Summer 2018)###
+__Potential Location: Bahir Dar, Ethiopia (beginning Summer 2018)__
 >Much of the urban growth on the planet will take place in cities of less than 1 million people and all of the urban development in human history will be duplicated in the next century. Ethiopia is one of the world's least, but most rapidly, urbanizing countries. Partnerships between [UW's Global Health Institute](http://ghi.wisc.edu/ghi-in-action/bringing-the-whole-university-to-ethiopia/) and Bahir Dar University (BDU) provide the basis for massive capacity building efforts around urban development, the environment, and health. Emerging interests between BDU’s agricultural and engineering units provide fertile ground for years of collaboration on a number of topics.  The timing of a newly awarded USAID “Power Africa” grant to BDU (with UW’s School of Engineering and GHI as the US partners) to establish a microgrid power “Center of Excellence” along with professor Patz’s Fulbright Award to spend Spring, 2015, at BDU is opportune.  
 
 _Potential UW Scholars_
