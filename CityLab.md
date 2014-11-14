@@ -21,9 +21,9 @@ The City Lab model places faculty and students from several departments in a sha
 ##What is a City Lab?##
 
 ###Basics###
-+ Each City lab has a dedicated focus area related to urban sustainability
-+ The Lab's work will produce new data and analyses for decision makers, and empower citizen science 
-+ Experts from UW, the lab's region, and broader scientific community will be convened in the lab to exchange ideas, issues, and practices
++ each City lab has a dedicated focus area related to urban sustainability
++ the Lab's work will produce new data and analyses for decision makers, and empower citizen science 
++ experts from UW, the lab's region, and broader scientific community will be convened in the lab to exchange ideas, issues, and practices
 
 
 ###Research Hubs###
