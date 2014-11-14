@@ -78,6 +78,25 @@ _Potential Metrics_
 
 >The Madison City Lab has the chance to be part of a new redevelopment project which co-locates several private and non-profit environmental interests in the region. The project is built on the success of the developer's first ['Green Exchange' in Chicago](http://www.greenexchange.com/). The Green Exchange model fosters relationships among our tenants and will create channels for Livable Cities to improve lives for people in cities around the world.  Early tenants include companies and organizations working on renewable energy, sustainable buildings, clean tech, environmental policy, and green business.  It is a unique chance to kick off the City Lab in union with several parallel efforts across the region. 
 
+<!---
+##City Lab [Buildings](buildingblocks.md)##
+###Potential Location: Madison, WI  (beginning Fall 2016, in Partnership with Building Blocks at UCSC and MIT)###
+>Existing structures are old and failing, money to repair and replace is scarce, and knowledge and political will to move forward in a more sustainable way is lacking. In this context, the Building Blocks Initiative employs advanced building technologies and big data to improve the sustainability of infrastructure and the built environment. In doing so, Building Blocks breaks down the barriers between urban systems (e.g. energy and water), buildings, and properties to promote increased sustainability, resilience, and community. Building Blocks emphasizes that projects serve as learning spaces for training and innovation – a necessary, but missing, component for facilitating the spread and adoption of sustainable practices. 
+
+_Potential UW Scholars_
++ [Satya Rhodes-Conway](http://www.cows.org/staff-page/satya-rhodes-conway) - [SCenter of Wisconsin Strategy](http://www.cows.org/)
++ [Paul Robbins](http://www.nelson.wisc.edu/director.php) - [Director, Nelson Institute](http://www.nelson.wisc.edu/index.php)
+
+_Potential Community Scholars_
++  
+
+_Potential Metrics_
++ % of buildings in compliance with revised codes
++ % buildings retrofitted or ready for various events (wind, flood, etc) (see also [City Lab Extreme Weather Resilience](https://github.com/vargovargo/LivableCities/blob/master/CityLab.md#city-lab-extreme-weather-resilience))
++ % distributed generation
++ % renewable energy that can be disconnected, # generators, # substations hardened, granularity of grid (see also [City Lab Energy](https://github.com/vargovargo/LivableCities/blob/master/CityLab.md#city-lab-energy))
+--->
+
 
 ##City Lab [Food Systems](food.md)##
 ###Potential Locaiton: Milwaukee, WI (beginning Fall 2015)###
