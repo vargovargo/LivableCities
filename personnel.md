@@ -1,5 +1,5 @@
 #Organizing Leadership#
-### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the director's of 4 UW Institutes.###
+### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the directors of 4 UW Institutes.###
 
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
 > __Jonathan initially established contact with the most engaged donors for the initiative__. 'Livable Cities' is also one of the four priority areas for th Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
@@ -19,10 +19,9 @@
 > __Deb is  primary contact between the UW (Foundation) and engaged donors__. She has been actively engaged in the conversations internally, with donors, and other external partners regarding the direction and timing of the initiative. Among several important leads, Deb has fostered connections to the [UW Arts Institute](http://www.arts.wisc.edu/artsinstitute/) and local arts community to think about opportunities for Livable Cities to engage and embrace the arts. 
 
 + [Joel Rogers](http://www.cows.org/staff-page/joel-rogers) - [Center on Wisconsin Strategy (COWS)](http://www.cows.org/)
-> __Joel has only recently been engaged by Livable Cities leadership.__ He and COWS' experience and connections to political leaders and municipal administrators is invaluable to the Initiative. 
+> __Joel has only recently been engaged by Livable Cities leadership.__ He and COWS' experience and connections to political leaders and municipal administrators – as well as their perspective on urban process and change – is invaluable to the Initiative. 
 
 #UW Faculty/Staff#
-
 
 + [Jim LaGro](http://www.wicci.wisc.edu/lagro.php) - [URPL](http://urpl.wisc.edu/) - ___green infrastructure, smart growth___
 >Jim has done a tremendous amount of work with Madison Communities, The City, and Dane County. He is actively involved with [Capital Region Sustainable Communities initiative](http://www.capitalregionscrpg.org/). His document on the 'Pathways to Regional Sustainability' was commissioned as part of a $2 million HUD regional sustainability planning and implementation grant from the [federal Partnership for Sustainable Communities](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf). The document outlines priorities for Madison's Capital Region. Jim is an importnat contact for thinking about operationalizing sustainability metrics for communities. He has studied and developed theories of change in the built and social environments of cities. 
@@ -30,6 +29,8 @@
 + [Satya Rhodes-Conway](http://www.cows.org/staff-page/satya-rhodes-conway) - [Center of Wisconsin Strategy](http://www.cows.org/)
  
 + [Eric Sundquist](http://www.ssti.us/about-ssti/expert-and-staff-bios/eric-sundquist/) - [State Smart Transportation Institute](http://www.ssti.us/)
+
+Microgrids - Giri Venekataraman and Wisconsin Energy Institute
 
 + [Brian Christens](http://sohe.wisc.edu/staff/brian-christens/) - [School of Human Ecology](https://sohe.wisc.edu/) - ___collective impact, community engagement___
 > Brian is the Faculty Director of UW's [Center for Community & Nonprofit Studies (The CommNS)](http://sohe.wisc.edu/who-we-are/centers/uw-center-for-nonprofits/). He and his team are very interested in helping achieve lasting improvements and changes in cites by empowering and enabling communities. I met with him and his post-doc __________________ in Dec. 2014 and discussed drafting proposals for specific funding of his type or work for potential donors - alternatively, he could be involved with teams funding under the LC 'matching strategy'.
