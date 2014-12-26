@@ -10,6 +10,7 @@
 + [Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
 + [Mike Corradini](http://energy.wisc.edu/about/energy-experts/michael-corradini) - [Wisconsin Energy Institute](http://energy.wisc.edu/)
 
+---
 
 + [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/) - ___transportation, air quality, computational modeling___
 > __Tracey has been a consistent member of the leadership behind this initiative__. She, along with Paul, have been the most important in developing the Livable Cities work in the past 3 months. She has been in direct contact with engaged donors.
@@ -66,12 +67,22 @@
 > Steve is the highest City contact next to the mayor. 
 
 + Katherine Cornwall - Madison Director of Planning and Community and Economic Development
-> 
+> finish
+
++ Jeanne Hoffman - City of Madison Engineering and Facilities, Sustainable Madison Committee
+> finish
+
++ Katherine Cornwall - Madison Director of Planning and Community and Economic Development
+> finish
 
 + Marcia Caton-Campbell - Executive Director of Center for Resilient Cities
-> 
+> finish
 
++ [Beth Tryon]() - [Morgridge Center]()
+> finish
 
++ [Ted Petith]() - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
+> finish
 
 + Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
 > Steve is the Director of CARPC ([Capitol Area Regional Planning Commission](http://www.capitalarearpc.org/))
