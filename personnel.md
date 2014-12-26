@@ -1,15 +1,19 @@
 #Organizing Leadership#
+### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the director's of 4 UW Institutes.###
+
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
-> Jonathan initially established contact with potential donors for this initiative. 'Livable Cities' is also one of the four priority areas for th Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
+> Jonathan initially established contact with the most engaged donors for the initiative. 'Livable Cities' is also one of the four priority areas for th Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
 
 + [Paul Robbins](http://www.nelson.wisc.edu/director.php) - [Director, Nelson Institute](http://www.nelson.wisc.edu/index.php)
 > 
-> + [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/) - transportation, air quality, computational modeling
->>> Tracey has been a consistent member of the leadership behind this initiative 
 
 + [Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
 + [Mike Corradini](http://energy.wisc.edu/about/energy-experts/michael-corradini) - [Wisconsin Energy Institute](http://energy.wisc.edu/)
 
+
+
++ [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/) - transportation, air quality, computational modeling
+> Tracey has been a consistent member of the leadership behind this initiative. She, along with Paul have been the most important 
 
 
 #UW Faculty#
