@@ -25,6 +25,13 @@
 
 
 
+#Non-University Contacts#
+
++ Steve Cover - Madison Director of Planning and Community and Economic Development
+> 
++ Steve Cover - Madison Director of Planning and Community and Economic Development
+> 
+
 
 
 + Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
