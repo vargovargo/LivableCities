@@ -3,6 +3,9 @@
 > Jonathan initially established contact with potential donors for this initiative. 'Livable Cities' is also one of the four priority areas for th Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
 
 + [Paul Robbins](http://www.nelson.wisc.edu/director.php) - [Director, Nelson Institute](http://www.nelson.wisc.edu/index.php)
+> 
+> + [Tracey Holloway](http://www.sage.wisc.edu/people/holloway/holloway.html) - [SAGE - Nelson](http://www.sage.wisc.edu/) - transportation, air quality, computational modeling
+>>> Tracey has been a consistent member of the leadership behind this initiative 
 
 + [Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
 + [Mike Corradini](http://energy.wisc.edu/about/energy-experts/michael-corradini) - [Wisconsin Energy Institute](http://energy.wisc.edu/)
