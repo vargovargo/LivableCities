@@ -65,8 +65,9 @@
 > Satya and Jason have had one-on-one meetings with Jason and has been in larger meetings with Paul Robbins. She has lots of experience with local city government and many connections in Madison and Dane County. She has served on many committees for the city.  Her expertise is around urban policy.  She has not been involved in donor planning yet.
  
 + [Eric Sundquist](http://www.ssti.us/about-ssti/expert-and-staff-bios/eric-sundquist/) - [State Smart Transportation Institute](http://www.ssti.us/)
-> Jason and Eric attended school together.  He has helped with writing earlier drafts on transportation.  He is with the COWS team and his expertise is in transportation policy. He has a number of contacts at DOTs across the country.
-* [Giri Venkataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - 
+> Jason and Eric attended school together.  He has helped with writing earlier drafts on transportation.  He is with the COWS team and his expertise is in transportation and planning policy. He has a number of contacts at DOTs across the country.
+
++ [Giri Venkataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Electrical and Computer Engineering](http://www.engr.wisc.edu/ece.html) - ___microgrids___
 > He is on sabbatical until fall 2015. He has been one of the most eager faculty members to sit down and discuss potential new projects to come out of Jason's connections outside the university. He has been very responsive providing narrative in planning stages for donors.  He works on microgrids and energy.  Giri has come to meetings with Jason and others at the city about performing experiments on city buildings, such as the Monroe Street library, discussions about using private buildings as research sites (like apartment buildings such as McGrath Properties). These research sites help building ownders understand utility use.  Also some discussion on developing apps on air quality, which has led to further conversations with other faculty members like Kristin Malecki.
 
 + [Brian Christens](http://sohe.wisc.edu/staff/brian-christens/) - [School of Human Ecology](https://sohe.wisc.edu/) - ___collective impact, community engagement___
