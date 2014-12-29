@@ -23,8 +23,36 @@
 
 + [Joel Rogers](http://www.cows.org/staff-page/joel-rogers) - [Center on Wisconsin Strategy (COWS)](http://www.cows.org/)
 > __Joel has only recently been engaged by Livable Cities leadership.__ He and COWS' experience and connections to political leaders and municipal administrators – as well as their perspective on urban process and change – is invaluable to the Initiative. Joel was introduced to Livable Cities through Tracey when they worked together on the EPA ACES grant proposal.  Julie Snyder invited him to attend DMI Dinner in November 2014. Jason, Deb, and Julie followed up with Joel for breakfast on December 1, 2014.
-+ [Chris Olsen]
+
++ [John Nelson](http://directory.engr.wisc.edu/cee/faculty/nelson_john) - UW Foundation
+> John Nelson was involved in one of the first Livable Cities meetings in May 2013, and in meetings during June 2014 leading up to fcoused intereactions with other donors.  His guidance has been valuable in shaping the initiative and considering the donor perspective.
+
++ [Chris Olsen](http://www.vetmed.wisc.edu/people/olsenc/) - [Global Health Institute](http://ghi.wisc.edu/)
 > Chris was involved in one of the first Livable Cities meetings in May 2013.  He is also the acting director of the Global Health Institute while Jonathan Patz is on sabbatical. 
+
+### others included in the May 20, 2013 Major Gifts Insterdisciplinary Themes meeting ### 
+
++ [Paul DeLuca](http://www.med.wisc.edu/news-events/deluca-named-uw-madison-provost/1083) - Former UW Provost
+
++ [Martin Cadwallader](http://www.geography.wisc.edu/faculty/profile.php?p=14) - Geography
+
++ [Mike Knetter](http://www.supportuw.org/about-us/officers/mike-knetter/) - President of UW Foundation
+
++ [David Krakauer](http://wid.wisc.edu/profile/david-krakauer/) - Director, Wisconsin Institute for Discovery
+
++ [Jeff Russell](http://directory.engr.wisc.edu/cee/faculty/russell_jeffrey) - Civil and Environmental Engineering
+
++ [Wendy Crone](https://directory.engr.wisc.edu/ep/faculty/crone_wendy) - Interim Dean of the Graduate School
+
++ [Brad Schwartz](http://experts.news.wisc.edu/experts/1386) - CEO of the Morgridge Institute
+
++ [Guido Podestá](http://international.wisc.edu/about/about-guido-podesta/) - Vice Provost and Dean of Division od International Studies
+
++ [Darrell Bazzell](http://www.vc.wisc.edu/) - Vice Chancellor for Finance and Administration
+
++ [David Ward]() - former Chancellor of UW 1993-2001, Urban geographer
+> David also attended a Livable Cities planning meeting in August 2014
+
 ---
 
 #UW Faculty/Staff#
@@ -39,9 +67,9 @@
 > Jason and Eric attended school together.  He has helped with writing earlier drafts on transportation.  He is with the COWS team and his expertise is in transportation policy. He has a number of contacts at DOTs across the country.
 * [Giri Venkataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - 
 > He is on sabbatical until fall 2015. He has been one of the most eager faculty members to sit down and discuss potential new projects to come out of Jason's connections outside the university. He has been very responsive providing narrative in planning stages for donors.  He works on microgrids and energy.  Giri has come to meetings with Jason and others at the city about performing experiments on city buildings, such as the Monroe Street library, discussions about using private buildings as research sites (like apartment buildings such as McGrath Properties). These research sites help building ownders understand utility use.  Also some discussion on developing apps on air quality, which has led to further conversations with other faculty members like Kristin Malecki.
-+ [Brian Christens](http://sohe.wisc.edu/staff/brian-christens/) - [School of Human Ecology](https://sohe.wisc.edu/) - ___collective impact, community engagement___
-> Brian is the Faculty Director of UW's [Center for Community & Nonprofit Studies (The CommNS)](http://sohe.wisc.edu/who-we-are/centers/uw-center-for-nonprofits/). He and his team are very interested in helping achieve lasting improvements and changes in cites by empowering and enabling communities. I met with him and his post-doc __________________ in Dec. 2014 and discussed drafting proposals for specific funding of his type or work for potential donors - alternatively, he could be involved with teams funding under the LC 'matching strategy'.
 
++ [Brian Christens](http://sohe.wisc.edu/staff/brian-christens/) - [School of Human Ecology](https://sohe.wisc.edu/) - ___collective impact, community engagement___
+> Brian is the Faculty Director of UW's [Center for Community & Nonprofit Studies (The CommNS)](http://sohe.wisc.edu/who-we-are/centers/uw-center-for-nonprofits/). He and his team are very interested in helping achieve lasting improvements and changes in cites by empowering and enabling communities. I met with him and his postdoc in Dec. 2014 where we discussed drafting proposals for specific funding of his type or work for potential donors - alternatively, he could be involved with teams funding under the LC 'matching strategy'.
 
 + [Steve Ventura](http://experts.news.wisc.edu/experts/727) - [Soil Science](http://soils.wisc.edu/)
 > Steve has been contacted on multiple occassions by Jason and Tracey.  Tracey approached him in December 2014 about leading the food Livable Cities group sometime in early 2015.  Steve has agreed.  Steve has many connections to CALS and food systems work in Milwaukee.  He is a founder in the Institute for Urban Agriculture and Nutrition.  
@@ -54,6 +82,7 @@
 
 + [Teresa Adams](http://directory.engr.wisc.edu/cee/faculty/adams_teresa) - [Civil & Environmental Engineering](http://www.engr.wisc.edu/cee.html)
 > Teresa has been in contact with Tracey about the upcoming January 12 transportation meeting. She will likely be a key player from engineering on the initiative.
+
 + [Paul Wilson](https://directory.engr.wisc.edu/ep/faculty/wilson_paul) - [Advanced Computing Infrastructure](http://aci.wisc.edu/)
 >Jason spoke informally with Paul about Livable Cities in early September 2014. Tracey has also talked to Paul about working with ACI (Advance Computing Infrastructre).
 
@@ -78,21 +107,19 @@
 + [Jamie Schauer](http://directory.engr.wisc.edu/cee/faculty/schauer_james) - [Civil and Environmental Engineering](http://www.engr.wisc.edu/cee.html) - ___air quality, atmospheric chemistry___
 > Jamie is a frequent collaborator with Jonathan Patz and Tracey and knows about the Livable Cities initiative through them. His main interests include source specific (energy sector, transport sector) air pollution and health and economic impacts.
 
-+ [Maggie Grabow])
++ [Maggie Grabow](http://sage.wisc.edu/people/grabow/grabow.html) - [Global Health Institute](http://ghi.wisc.edu/)
 > Post doctorate with Jonathan Patz at the Global Health Institute. She works mainly on active transportation, an interest of the donor.  She is very familiar with the Livable Cities idea.
 
-+ [Tim Donohue] 
-> Tim was involved in a June Livable Cities meeting, but Mike Corradini seems to have taken over as primary contact from Wisconsin Energy Institute.
++ [Tim Donohue](https://energy.wisc.edu/about/energy-experts/tim-donohue) - [Wisconsin Energy Institute](https://energy.wisc.edu/)
+> Tim was involved in a June 2014 Livable Cities meeting, but Mike Corradini seems to have taken over as primary contact from Wisconsin Energy Institute.
 
-+ [Harvey Jacobs]
++ [Harvey Jacobs](http://www.urpl.wisc.edu/people/jacobs/) - [Urban and Regional Planning](http://www.urpl.wisc.edu/)
 > Harvey is a professor in the Urban and Regional Planning Department. His expertise is in land tenure and housing. Jason sat down with Harvey at the end of August 2014 to talk about Livable Cities. He has offered general guidance so far but has not been invovled with the overall planning. 
 
-+ [John Nelson]
-> John Nelson was involved in one of the first Livable Cities meetings in May 2013.
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
 > Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
 
-### others included in the Jan. 12 Transportation meeting ### 
+### others invited to the Jan. 12, 2015 Transportation meeting ### 
 
 + [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) - Civil and Environmental Engineering
 
