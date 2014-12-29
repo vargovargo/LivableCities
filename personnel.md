@@ -56,7 +56,7 @@
 
 ---
 
-#UW Faculty/Staff#
+#UW Faculty/Staff
 
 + [Jim LaGro](http://www.wicci.wisc.edu/lagro.php) - [URPL](http://urpl.wisc.edu/) - ___green infrastructure, smart growth___
 >Jim has done a tremendous amount of work with Madison Communities, The City, and Dane County. He is actively involved with [Capital Region Sustainable Communities initiative](http://www.capitalregionscrpg.org/). His document on the 'Pathways to Regional Sustainability' was commissioned as part of a $2 million HUD regional sustainability planning and implementation grant from the [federal Partnership for Sustainable Communities](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf). The document outlines priorities for Madison's Capital Region. Jim is an important contact for thinking about operationalizing sustainability metrics for communities. He has studied and developed theories of change in the built and social environments of cities. 
@@ -120,7 +120,7 @@
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
 > Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
 
-### others invited to the Jan. 12, 2015 Transportation meeting ### 
+### others invited to the Jan. 12, 2015 Transportation meeting
 
 + [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) - Civil and Environmental Engineering
 
@@ -150,7 +150,7 @@
 
 + [Michelle Miller](http://www.cias.wisc.edu/michelle-miller/) - Center for Integrated Agricultural Systems
 
-### others invited to the Jan. 12, 2015 Energy meeting ### 
+### others invited to the Jan. 12, 2015 Energy meeting 
 
 + [Doug Reinemann](http://bse.wisc.edu/Douglas_Reinemann.htm) - Biological Systems Engineering - ___rural energy issues___
 
@@ -184,7 +184,7 @@
  
 ---
 
-#Non-University Contacts#
+#Non-University Contacts
 
 + Steve Cover - Madison Director of Planning and Community and Economic Development
 > Steve is the highest City contact next to the mayor. I was introduced to Steve via email by colleagues from Atlanta, where Steve was previously director of planning. Recently Ted Petith invited me to lunch with him and Steve (Dec 18, 2014). He is very interested in working on Livable Cities in Madison and is influential in assigning people at the city to work with students.  
@@ -202,24 +202,22 @@
 > Marcia is the primary contact for potential partnerships with Badger Rock Neighborhood Center. The Center is located in South Madison in an energy efficient building which also houses the [Center for Resilient Cities](http://resilientcities.org/Resilient_Cities/PROFILE.html) and Badger Rock Middle School. We've discussed partnerships around food, energy, transport, health, art, and more with Marcia and the Center. Marcia has worked with others on campus including Steve Ventura and Mike Bell. Most recently I've communicated with Marcia regarding her involvement with a Baldwin Grant idea around food security in South Madison and the potential for a NIEHS Center grant examining chronic environmental exposures and educational outcomes (with [Kristen Malecki - UW Faculty](http://www.pophealth.wisc.edu/faculty/malecki)). 
 
 + [Beth Tryon](https://morgridge.wisc.edu/elizabeth-tryon.htm) - [Morgridge Center for Public Service](https://morgridge.wisc.edu/index.htm)
-> Beth is the Assistant Director of Community-based Learning at the Morgridge Center. She is directly involved with a new community space in the former Villager Mall in south Madison.  Programming for the space is still being determined and it is ready for community engagement projects in south Madison.  Jason and Beth met on December 5. Beth works with Karen Crossley and Kathy Kramer. Karen and Kathy will meet with Deb, Jason, and Julie on January 27.
-
-
+> Beth is the Assistant Director of Community-based Learning at the Morgridge Center. She is directly involved with a new community space in the former Villager Mall in south Madison.  Programming for the space is still being determined and it is ready for community engagement projects in south Madison.  Jason and Beth met on December 5. Beth works with [Karen Crossley](http://morgridge.wisc.edu/karen-crossley.htm) and [Kathy Cramer](http://experts.news.wisc.edu/experts/155). Karen and Kathy will meet with Deb, Jason, and Julie on January 27.
 
 + [Ted Petith](mailto:tedpetith@gmail.com) - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
 > Ted is an independent city consultant and he has expertise on green buildings. He has led delegations from Madison to Freiberg and fostered that sister city connection. He has been important for making other connections around Dane County and is invovled with the Galaxy development 1800 East Washington. We've discussed the possibility of space in that buildilng once it is built as well as opportunities for students to study that development.  He had talked to Craig Benson on similar opportunities. He is very interested in Livable Cities as a way to capitalize Madison's connection to Freiberg and learning from that exchange. 
 
-+ Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
-> Steve is the Director of CARPC ([Capitol Area Regional Planning Commission](http://www.capitalarearpc.org/))
-> Jason and Steve have met on several occassions.  Jim Lagrow works closely with Steve. Steven's organization could be an important partner on many Livable Cities projects.
++ Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/) - Director of CARPC ([Capitol Area Regional Planning Commission](http://www.capitalarearpc.org/))
+> Jason and Steve have met on several occassions.  Jim LaGro works closely with Steve. Steven's organization could be an important partner on many Livable Cities projects in Dane Co.
 
 + Mike Metzger
-> We met Mike at the DMI dinner.  Julie Snyder and Jason met him on December 3. He is the Director of Property Management and is interested in building projects around parking, energy behavior, and more.  They have a new development on East Washington that could be a potential study site. 
+> We met Mike at the DMI dinner.  Julie Snyder and Jason met him on December 3. He is the Director of Property Management at [McGrath Property Group](http://www.mcgrathpropertygroup.com/) and is interested in building projects around parking, energy behavior, and more.  They have a new development on East Washington that could be a potential study site. 
+
 + Karl Van Lith
 > Karl is at the city of Madison, Division of Planning and a member of the Sustainable Madison committee. Jason met with Karl on October 31, 2014 with Steve Steinhoff and Bryant Moroder and Katherine Cornwell.
 
 + Bryant Moroder
-> Bryant is the former executive director of Sustain Dane and is now involved with several "green" redevelopment projects around Madison. He is highly networked in Madison, especially in circles useful to Livable Cities. Partnering with Baum Development. Jason and he have spoken mainly about potential space for a studio in the Madison Green Exchange. Baum may also redevelop the Garver Feed Mill site, which offers potential for Livable Cities projects around food, energy, transportation, water and others.
+> Bryant is the former executive director of Sustain Dane and is now involved with several "green" redevelopment projects around Madison. He is highly networked in Madison, especially in circles useful to Livable Cities. Partnering with [Baum Development](http://www.baumdevelopment.com/). Jason and he have spoken mainly about potential space for a studio in the Madison Green Exchange. Baum may also redevelop the Garver Feed Mill site, which offers potential for Livable Cities projects around food, energy, transportation, water and others.
 
 + Jessie Lerner (jessie@sustaindane.org) - [Sustain Dane](http://www.sustaindane.org/)
 > Jessie and Sustain Dane are planning to occupy some of the space in the new Galaxy Building at 800 E. Washington. I was put in touch with her by Ted Petith. 
