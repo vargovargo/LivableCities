@@ -21,6 +21,8 @@
 + [Joel Rogers](http://www.cows.org/staff-page/joel-rogers) - [Center on Wisconsin Strategy (COWS)](http://www.cows.org/)
 > __Joel has only recently been engaged by Livable Cities leadership.__ He and COWS' experience and connections to political leaders and municipal administrators – as well as their perspective on urban process and change – is invaluable to the Initiative. 
 
+---
+
 #UW Faculty/Staff#
 
 + [Jim LaGro](http://www.wicci.wisc.edu/lagro.php) - [URPL](http://urpl.wisc.edu/) - ___green infrastructure, smart growth___
@@ -30,7 +32,7 @@
  
 + [Eric Sundquist](http://www.ssti.us/about-ssti/expert-and-staff-bios/eric-sundquist/) - [State Smart Transportation Institute](http://www.ssti.us/)
 
-Microgrids - Giri Venekataraman and Wisconsin Energy Institute
+* [Giri Venkataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - 
 
 + [Brian Christens](http://sohe.wisc.edu/staff/brian-christens/) - [School of Human Ecology](https://sohe.wisc.edu/) - ___collective impact, community engagement___
 > Brian is the Faculty Director of UW's [Center for Community & Nonprofit Studies (The CommNS)](http://sohe.wisc.edu/who-we-are/centers/uw-center-for-nonprofits/). He and his team are very interested in helping achieve lasting improvements and changes in cites by empowering and enabling communities. I met with him and his post-doc __________________ in Dec. 2014 and discussed drafting proposals for specific funding of his type or work for potential donors - alternatively, he could be involved with teams funding under the LC 'matching strategy'.
@@ -62,6 +64,8 @@ Microgrids - Giri Venekataraman and Wisconsin Energy Institute
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 > Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__
 
+---
+
 #Non-University Contacts#
 
 + Steve Cover - Madison Director of Planning and Community and Economic Development
@@ -73,16 +77,16 @@ Microgrids - Giri Venekataraman and Wisconsin Energy Institute
 + Jeanne Hoffman - City of Madison Engineering and Facilities, Sustainable Madison Committee
 > finish
 
-+ Katherine Cornwall - Madison Director of Planning and Community and Economic Development
-> finish
++ Katherine Cornwall - City of Madison, Director of the Planning Division
+> Katherine is key contact at the City. She already oversees 
 
 + Marcia Caton-Campbell - Executive Director of Center for Resilient Cities
-> finish
+> Marcia is the primary contact for potential partnerships with Badger Rock Neighborhood Center. The Center is located in South Madison in an energy efficient building which also houses the [Center for Resilient Cities](http://resilientcities.org/Resilient_Cities/PROFILE.html) and Badger Rock Middle School. We've discussed partnerships around food, energy, transport, health, art, and more with Marcia and the Center. Marcia has worked with others on campus including Steve Ventura and Mike Bell. Most recently I've communicated with Marcia regarding her involvement with a Baldwin Grant idea around food security in South Madison and the potential for a NIEHS Center grant examining chronic environmental exposures and educational outcomes (with [Kristen Malecki](http://www.pophealth.wisc.edu/faculty/malecki)). 
 
-+ [Beth Tryon]() - [Morgridge Center]()
-> finish
++ [Beth Tryon](https://morgridge.wisc.edu/elizabeth-tryon.htm) - [Morgridge Center for Public Service](https://morgridge.wisc.edu/index.htm)
+> Beth is the Assistant Director of Community-based Learning at the Morgridge Center. She is directly involved with a new 
 
-+ [Ted Petith]() - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
++ [Ted Petith](mailto::tedpetith@gmail.com) - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
 > finish
 
 + Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
@@ -92,3 +96,4 @@ Microgrids - Giri Venekataraman and Wisconsin Energy Institute
 > Jessie and Sustain Dane are planning to occupy some of the space in the new Galaxy Building at 800 E. Washington. I was put in touch with her by Ted Petith. 
 
 + Lisa MacKinnon - [Dane County Board of Supervisors -Sustainability Coordinator](https://www.countyofdane.com/board/)
+> Lisa was referred to me after Maggie Grabow was introduced to her in 
