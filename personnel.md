@@ -82,35 +82,35 @@
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
 > Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
 
-###others included in the Jan. 12 Transportation meeting### 
+### others included in the Jan. 12 Transportation meeting ### 
 
-> [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) - Civil and Environmental Engineering
++ [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) - Civil and Environmental Engineering
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
++ [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
 
-> [Kurt Paulsen](http://www.urpl.wisc.edu/people/paulsen/) - Urban and Regional Planning
++ [Kurt Paulsen](http://www.urpl.wisc.edu/people/paulsen/) - Urban and Regional Planning
 
-> [Vicki Bier](https://directory.engr.wisc.edu/ie/faculty/bier_vicki) - Industrial and Systems Engineering
++ [Vicki Bier](https://directory.engr.wisc.edu/ie/faculty/bier_vicki) - Industrial and Systems Engineering
 
-> [Bill Holloway](http://www.ssti.us/about-ssti/expert-and-staff-bios/bill-holloway/) - State Smart Transportation Initiative
++ [Bill Holloway](http://www.ssti.us/about-ssti/expert-and-staff-bios/bill-holloway/) - State Smart Transportation Initiative
 
-> [Mary Ebeling](http://www.ssti.us/about-ssti/expert-and-staff-bios/mary-ebeling/) - State Smart Transportation Initiative
++ [Mary Ebeling](http://www.ssti.us/about-ssti/expert-and-staff-bios/mary-ebeling/) - State Smart Transportation Initiative
 
-> [John Lee](http://directory.engr.wisc.edu/ie/faculty/lee_john) - Industrial and Systems Engineering
++ [John Lee](http://directory.engr.wisc.edu/ie/faculty/lee_john) - Industrial and Systems Engineering
 
-> [Jim Miller](http://www.nelson.wisc.edu/graduate/advising.php) - Nelson Institute
++ [Jim Miller](http://www.nelson.wisc.edu/graduate/advising.php) - Nelson Institute
 
-> [Soyoung Ahn](http://directory.engr.wisc.edu/cee/Faculty/Ahn_Soyoung/) - Civil and Environmental Engineering
++ [Soyoung Ahn](http://directory.engr.wisc.edu/cee/Faculty/Ahn_Soyoung/) - Civil and Environmental Engineering
 
-> [Paul Meier](https://energy.wisc.edu/about/people/meier) - Wisconsin Energy Institute
++ [Paul Meier](https://energy.wisc.edu/about/people/meier) - Wisconsin Energy Institute
 
-> [Monica Harkey](http://www.sage.wisc.edu/people/harkey/harkey.html) - Center for Sustainability and the Global Environment
++ [Monica Harkey](http://www.sage.wisc.edu/people/harkey/harkey.html) - Center for Sustainability and the Global Environment
 
-> [Gary Radloff](http://experts.news.wisc.edu/experts/932) - Wisconsin Energy Institute
++ [Gary Radloff](http://experts.news.wisc.edu/experts/932) - Wisconsin Energy Institute
 
-> [John Greenler](http://energy.wisc.edu/about/energy-experts/john-greenler) - Wisconsin Energy Institute
++ [John Greenler](http://energy.wisc.edu/about/energy-experts/john-greenler) - Wisconsin Energy Institute
 
-> [Michelle Miller](http://www.cias.wisc.edu/michelle-miller/) - Center for Integrated Agricultural Systems
++ [Michelle Miller](http://www.cias.wisc.edu/michelle-miller/) - Center for Integrated Agricultural Systems
 
 
 ---
