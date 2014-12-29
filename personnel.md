@@ -64,32 +64,44 @@
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 > Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__
 
++ [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) <dmoynihan@lafollette.wisc.edu>
+> finish
+
++ [Donald Moynihan](http://www.lafollette.wisc.edu/faculty-staff/faculty/donald-moynihan) <dmoynihan@lafollette.wisc.edu>
+> finish
+
 ###others included in the Jan. 12 Energy meeting###
-> Greg Waidley <gwaidley@engr.wisc.edu>,
-"adams@engr.wisc.edu Adams" <adams@engr.wisc.edu>,
+> [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) <gwaidley@engr.wisc.edu>
+
 pccarste@facstaff.wisc.edu,
-"jalagro@wisc.edu La Gro" <jalagro@wisc.edu>,
-nemet@wisc.edu,
+
+
 "noyce@engr.wisc.edu Noyce" <noyce@engr.wisc.edu>,
 kpaulsen@wisc.edu,
-"sventura@facstaff.wisc.edu Ventura" <sventura@facstaff.wisc.edu>,
+
 "bier@engr.wisc.edu Bier" <bier@engr.wisc.edu>,
+
 Bill Holloway <holloway@ssti.us>,
+
 mrebeling@wisc.edu,
-Joel Rogers <jrogers60@gmail.com>,
+
 "John D. Lee" <jdlee@engr.wisc.edu>,
+
 Jim Miller <jemiller@wisc.edu>,
+
 Soyoung Ahn <ahn37@wisc.edu>,
+
 Paul Meier <pmeier@wisc.edu>,
-"erics@ssti.us Sundquist" <erics@ssti.us>,
-"Craig H. Benson" <chbenson@wisc.edu>,
+
+
 Monica Harkey <mkharkey@wisc.edu>,
+
 Jamie Schauer <jjschauer@wisc.edu>,
-Jonathan Patz <patz@wisc.edu>,
-Jason Vargo <javargo@wisc.edu>,
-"corradin@cae.wisc.edu Corradini" <corradin@cae.wisc.edu>,
+
 Donald Moynihan <dmoynihan@lafollette.wisc.edu>,
+
 Gary Radloff <gradloff@wbi.wisc.edu>,
+
 John Greenler <jgreenler@glbrc.wisc.edu>,
 Alfonso Morales <morales1@wisc.edu>,
 Maggie Grabow <maggie.grabow@gmail.com>,
@@ -118,7 +130,7 @@ Michelle Bright <mbright@cows.org>
 + [Beth Tryon](https://morgridge.wisc.edu/elizabeth-tryon.htm) - [Morgridge Center for Public Service](https://morgridge.wisc.edu/index.htm)
 > Beth is the Assistant Director of Community-based Learning at the Morgridge Center. She is directly involved with a new 
 
-+ [Ted Petith](mailto::tedpetith@gmail.com) - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
++ [Ted Petith](mailto:tedpetith@gmail.com) - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
 > finish
 
 + Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/)
