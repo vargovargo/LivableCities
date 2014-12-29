@@ -2,10 +2,10 @@
 ### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the directors of 4 UW Institutes.###
 
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
-> __Jonathan initially established contact with the most engaged donors for the initiative__. 'Livable Cities' is also one of the four priority areas for th Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
+> __Jonathan initially established contact with the most engaged donors for the initiative__. 'Livable Cities' is also one of the four priority areas for the Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
 
 + [Paul Robbins](http://www.nelson.wisc.edu/director.php) - [Director, Nelson Institute](http://www.nelson.wisc.edu/index.php)
-> During Jonathan's sabbatical, __Paul has assumed a priomary leadership role in guiding the discussion with donors__. 
+> During Jonathan's sabbatical, __Paul has assumed a primary leadership role in guiding the discussion with donors__. 
 
 + [Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
 + [Mike Corradini](http://energy.wisc.edu/about/energy-experts/michael-corradini) - [Wisconsin Energy Institute](http://energy.wisc.edu/)
@@ -26,7 +26,7 @@
 #UW Faculty/Staff#
 
 + [Jim LaGro](http://www.wicci.wisc.edu/lagro.php) - [URPL](http://urpl.wisc.edu/) - ___green infrastructure, smart growth___
->Jim has done a tremendous amount of work with Madison Communities, The City, and Dane County. He is actively involved with [Capital Region Sustainable Communities initiative](http://www.capitalregionscrpg.org/). His document on the 'Pathways to Regional Sustainability' was commissioned as part of a $2 million HUD regional sustainability planning and implementation grant from the [federal Partnership for Sustainable Communities](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf). The document outlines priorities for Madison's Capital Region. Jim is an importnat contact for thinking about operationalizing sustainability metrics for communities. He has studied and developed theories of change in the built and social environments of cities. 
+>Jim has done a tremendous amount of work with Madison Communities, The City, and Dane County. He is actively involved with [Capital Region Sustainable Communities initiative](http://www.capitalregionscrpg.org/). His document on the 'Pathways to Regional Sustainability' was commissioned as part of a $2 million HUD regional sustainability planning and implementation grant from the [federal Partnership for Sustainable Communities](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf). The document outlines priorities for Madison's Capital Region. Jim is an important contact for thinking about operationalizing sustainability metrics for communities. He has studied and developed theories of change in the built and social environments of cities. 
 
 + [Satya Rhodes-Conway](http://www.cows.org/staff-page/satya-rhodes-conway) - [Center of Wisconsin Strategy](http://www.cows.org/)
  
@@ -44,10 +44,10 @@
 + [Alfonso Morales](http://urpl.wisc.edu/people/morales/) - [URPL](http://urpl.wisc.edu/)
 
 
-+ [Monica White](http://dces.wisc.edu/people/faculty/monica-white/) - [Commun. & Envir. Sociology](http://dces.wisc.edu/)
++ [Monica White](http://dces.wisc.edu/people/faculty/monica-white/) - [Community & Environmental Sociology](http://dces.wisc.edu/)
 
 
-+ [Teresa Adams](http://directory.engr.wisc.edu/cee/faculty/adams_teresa) - [Civil & Envir. Engineering](http://www.engr.wisc.edu/cee.html)
++ [Teresa Adams](http://directory.engr.wisc.edu/cee/faculty/adams_teresa) - [Civil & Environmental Engineering](http://www.engr.wisc.edu/cee.html)
 
 + [Paul Wislon](https://directory.engr.wisc.edu/ep/faculty/wilson_paul) - [Advanced Computing Infrastructure](http://aci.wisc.edu/)
 
@@ -58,11 +58,11 @@
 + [Chris Kucharik](http://www.sage.wisc.edu/people/kucharik/kucharik.html) - [SAGE - Nelson](http://www.sage.wisc.edu/)
 > __Chris has not been contacted directly about involvement in Livable Cities__, however, his projects as part of the [Yahara 2070](https://wsc.limnology.wisc.edu/yahara2070) relate to several aspects of Livable Cities. I am involved in an ancillary way with one project which examines [Madison's urban heat island](http://www.news.wisc.edu/23223). The projects highlights expertise in dense urban environmental monitoring networks. We are exploring the option of expanding such work to other cities and combining this data with health endpoints. 
 
-+ [Michael Bell](http://dces.wisc.edu/people/faculty/michael-bell/) - [Commun. & Envir. Sociology](http://dces.wisc.edu/) - ___food systems, social capital___
++ [Michael Bell](http://dces.wisc.edu/people/faculty/michael-bell/) - [Community & Environmental Sociology](http://dces.wisc.edu/) - ___food systems, social capital___
 > Michael's name is consistently brought up in many discussions. He has worked in South Madison communities through a partnership with Badger Rock Neighborhood Center and the [Center for Resilient Cities](http://resilientcities.org/Resilient_Cities/PROFILE.html). Mike helped the center create and administer a neighborhood survey of social capital indicators and was also on a grant proposal to assess the local food/nutrition environment. The Department of Community & Environmental Sociology could be an important resource for Livable Cities. __I do not believe he has been approached directly about Livable Cities.__  
 
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
-> Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__
+> Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__ Among the Leadership of Livable Cities, Tracey Holloway is in closest contact with Steve. 
 
 + [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) - [La Follette School of Public Affairs](http://www.lafollette.wisc.edu/index.php)
 > finish
