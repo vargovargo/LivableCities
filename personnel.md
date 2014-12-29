@@ -23,7 +23,8 @@
 
 + [Joel Rogers](http://www.cows.org/staff-page/joel-rogers) - [Center on Wisconsin Strategy (COWS)](http://www.cows.org/)
 > __Joel has only recently been engaged by Livable Cities leadership.__ He and COWS' experience and connections to political leaders and municipal administrators – as well as their perspective on urban process and change – is invaluable to the Initiative. Joel was introduced to Livable Cities through Tracey when they worked together on the EPA ACES grant proposal.  Julie Snyder invited him to attend DMI Dinner in November 2014. Jason, Deb, and Julie followed up with Joel for breakfast on December 1, 2014.
-
++ [Chris Olsen]
+> Chris was involved in one of the first Livable Cities meetings in May 2013.  He is also the acting director of the Global Health Institute while Jonathan Patz is on sabbatical. 
 ---
 
 #UW Faculty/Staff#
@@ -77,12 +78,17 @@
 + [Jamie Schauer](http://directory.engr.wisc.edu/cee/faculty/schauer_james) - [Civil and Environmental Engineering](http://www.engr.wisc.edu/cee.html) - ___air quality, atmospheric chemistry___
 > Jamie is a frequent collaborator with Jonathan Patz and Tracey and knows about the Livable Cities initiative through them. His main interests include source specific (energy sector, transport sector) air pollution and health and economic impacts.
 
-+ [Maggie Grabow]()
->
++ [Maggie Grabow])
+> Post doctorate with Jonathan Patz at the Global Health Institute. She works mainly on active transportation, an interest of the donor.  She is very familiar with the Livable Cities idea.
 
++ [Tim Donohue] 
+> Tim was involved in a June Livable Cities meeting, but Mike Corradini seems to have taken over as primary contact from Wisconsin Energy Institute.
 
++ [Harvey Jacobs]
+> Harvey is a professor in the Urban and Regional Planning Department. His expertise is in land tenure and housing. Jason sat down with Harvey at the end of August 2014 to talk about Livable Cities. He has offered general guidance so far but has not been invovled with the overall planning. 
 
-
++ [John Nelson]
+> John Nelson was involved in one of the first Livable Cities meetings in May 2013.
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
 > Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
 
