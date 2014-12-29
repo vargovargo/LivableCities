@@ -64,6 +64,38 @@
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 > Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__
 
+###others included in the Jan. 12 Energy meeting###
+> Greg Waidley <gwaidley@engr.wisc.edu>,
+"adams@engr.wisc.edu Adams" <adams@engr.wisc.edu>,
+pccarste@facstaff.wisc.edu,
+"jalagro@wisc.edu La Gro" <jalagro@wisc.edu>,
+nemet@wisc.edu,
+"noyce@engr.wisc.edu Noyce" <noyce@engr.wisc.edu>,
+kpaulsen@wisc.edu,
+"sventura@facstaff.wisc.edu Ventura" <sventura@facstaff.wisc.edu>,
+"bier@engr.wisc.edu Bier" <bier@engr.wisc.edu>,
+Bill Holloway <holloway@ssti.us>,
+mrebeling@wisc.edu,
+Joel Rogers <jrogers60@gmail.com>,
+"John D. Lee" <jdlee@engr.wisc.edu>,
+Jim Miller <jemiller@wisc.edu>,
+Soyoung Ahn <ahn37@wisc.edu>,
+Paul Meier <pmeier@wisc.edu>,
+"erics@ssti.us Sundquist" <erics@ssti.us>,
+"Craig H. Benson" <chbenson@wisc.edu>,
+Monica Harkey <mkharkey@wisc.edu>,
+Jamie Schauer <jjschauer@wisc.edu>,
+Jonathan Patz <patz@wisc.edu>,
+Jason Vargo <javargo@wisc.edu>,
+"corradin@cae.wisc.edu Corradini" <corradin@cae.wisc.edu>,
+Donald Moynihan <dmoynihan@lafollette.wisc.edu>,
+Gary Radloff <gradloff@wbi.wisc.edu>,
+John Greenler <jgreenler@glbrc.wisc.edu>,
+Alfonso Morales <morales1@wisc.edu>,
+Maggie Grabow <maggie.grabow@gmail.com>,
+Michelle Miller <mmmille6@wisc.edu>,
+Michelle Bright <mbright@cows.org>
+
 ---
 
 #Non-University Contacts#
