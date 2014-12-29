@@ -1,18 +1,18 @@
 #Organizing Leadership
 
-### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced more than a yeago and has been promoted by the directors of 4 UW Institutes.
+### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced more than a year ago and has been promoted by the directors of 4 UW Institutes.
 
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
 > __Jonathan initially established contact with the most engaged donors for the initiative__. 'Livable Cities' is also one of the four priority areas for the Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
 
-+ [Paul Robbins](http://www.nelson.wisc.edu/director.php) - [Nelson Institute](http://www.nelson.wisc.edu/index.php)
++ [Paul Robbins](http://www.nelson.wisc.edu/director.php) - [Nelson Institute for Environmental Studies](http://www.nelson.wisc.edu/index.php)
 > During Jonathan's sabbatical, __Paul has assumed a primary leadership role in guiding the discussion with donors__. 
 
 + [Craig Benson](http://sustainability.wisc.edu/about/leadership/craig-benson/) - [Office of Sustainability](http://sustainability.wisc.edu/)
-> Craig has been involved in some of the first larger meetings around Livable Cities, including helping to craft the initiatl idea.  In the most recent meetings with the interested donor, he hasn't been engaged. 
+> Craig has been involved in some of the first larger meetings around Livable Cities, including helping to craft the initial idea.  In the most recent meetings with the interested donor, he hasn't been engaged. 
 
 + [Mike Corradini](http://energy.wisc.edu/about/energy-experts/michael-corradini) - [Wisconsin Energy Institute](http://energy.wisc.edu/)
-> Mike was at the August Livalble Cities meeting with David Ward. Mary Blanchard is the primary person who would be working on the initiative.  
+> Mike was at the August Livable Cities meeting with David Ward. Mary Blanchard is the primary person who would be working on the initiative.  
 
 ---
 
@@ -26,12 +26,12 @@
 > __Joel has only recently been engaged by Livable Cities leadership.__ He and COWS' experience and connections to political leaders and municipal administrators – as well as their perspective on urban process and change – is invaluable to the Initiative. Joel was introduced to Livable Cities through Tracey when they worked together on the EPA ACES grant proposal.  Julie Snyder invited him to attend DMI Dinner in November 2014. Jason, Deb, and Julie followed up with Joel for breakfast on December 1, 2014.
 
 + [John Nelson](http://directory.engr.wisc.edu/cee/faculty/nelson_john) - UW Foundation
-> John Nelson was involved in one of the first Livable Cities meetings in May 2013, and in meetings during June 2014 leading up to fcoused intereactions with other donors.  His guidance has been valuable in shaping the initiative and considering the donor perspective.
+> John Nelson was involved in one of the first Livable Cities meetings in May 2013, and in meetings during June 2014 leading up to focused interactions with other donors.  His guidance has been valuable in shaping the initiative and considering the donor perspective.
 
 + [Chris Olsen](http://www.vetmed.wisc.edu/people/olsenc/) - [Global Health Institute](http://ghi.wisc.edu/)
 > Chris was involved in one of the first Livable Cities meetings in May 2013.  He is also the acting director of the Global Health Institute while Jonathan Patz is on sabbatical. 
 
-### others included in the May 20, 2013 Major Gifts Insterdisciplinary Themes meeting
+### others included in the May 20, 2013 Major Gifts Interdisciplinary Themes meeting
 
 + [Paul DeLuca](http://www.med.wisc.edu/news-events/deluca-named-uw-madison-provost/1083) - Former UW Provost
 
@@ -47,7 +47,7 @@
 
 + [Brad Schwartz](http://experts.news.wisc.edu/experts/1386) - CEO of the Morgridge Institute
 
-+ [Guido Podestá](http://international.wisc.edu/about/about-guido-podesta/) - Vice Provost and Dean of Division od International Studies
++ [Guido Podestá](http://international.wisc.edu/about/about-guido-podesta/) - Vice Provost and Dean of Division of International Studies
 
 + [Darrell Bazzell](http://www.vc.wisc.edu/) - Vice Chancellor for Finance and Administration
 
@@ -62,19 +62,19 @@
 >Jim has done a tremendous amount of work with Madison Communities, The City, and Dane County. He is actively involved with [Capital Region Sustainable Communities initiative](http://www.capitalregionscrpg.org/). His document on the 'Pathways to Regional Sustainability' was commissioned as part of a $2 million HUD regional sustainability planning and implementation grant from the [federal Partnership for Sustainable Communities](http://urpl.wisc.edu/people/lagro/LaGro_CRSC%20Best%20Practices_final.pdf). The document outlines priorities for Madison's Capital Region. Jim is an important contact for thinking about operationalizing sustainability metrics for communities. He has studied and developed theories of change in the built and social environments of cities. 
 
 + [Satya Rhodes-Conway](http://www.cows.org/staff-page/satya-rhodes-conway) - [Center of Wisconsin Strategy](http://www.cows.org/)
-> Satya and Jason have had one-on-one meetings with Jason and has been in larger meetings with Paul Robbins. She has lots of experience with local city government and many connections in Madison and Dane County. She has served on many committees for the city.  Her expertise is around urban policy.  She has not been involved in donor planning yet.
+> Satya and Jason have had one-on-one meetings and has been in larger meetings with Paul Robbins. She has lots of experience with local city government and many connections in Madison and Dane County. She has served on many committees for the city.  Her expertise is around urban policy.  She has not been involved in donor planning yet.
  
 + [Eric Sundquist](http://www.ssti.us/about-ssti/expert-and-staff-bios/eric-sundquist/) - [State Smart Transportation Institute](http://www.ssti.us/)
 > Jason and Eric attended school together.  He has helped with writing earlier drafts on transportation.  He is with the COWS team and his expertise is in transportation and planning policy. He has a number of contacts at DOTs across the country.
 
 + [Giri Venkataraman](http://directory.engr.wisc.edu/ece/faculty/venkataramanan_giri) - [Electrical and Computer Engineering](http://www.engr.wisc.edu/ece.html) - ___microgrids___
-> He is on sabbatical until fall 2015. He has been one of the most eager faculty members to sit down and discuss potential new projects to come out of Jason's connections outside the university. He has been very responsive providing narrative in planning stages for donors.  He works on microgrids and energy.  Giri has come to meetings with Jason and others at the city about performing experiments on city buildings, such as the Monroe Street library, discussions about using private buildings as research sites (like apartment buildings such as McGrath Properties). These research sites help building ownders understand utility use.  Also some discussion on developing apps on air quality, which has led to further conversations with other faculty members like Kristin Malecki.
+> He is on sabbatical until fall 2015. He has been one of the most eager faculty members to sit down and discuss potential new projects to come out of Jason's connections outside the university. He has been very responsive providing narrative in planning stages for donors.  He works on microgrids and energy.  Giri has come to meetings with Jason and others at the city about performing experiments on city buildings, such as the Monroe Street library, discussions about using private buildings as research sites (like apartment buildings such as McGrath Properties). These research sites help building owners understand utility use.  Also some discussion on developing apps on air quality, which has led to further conversations with other faculty members like Kristin Malecki.
 
 + [Brian Christens](http://sohe.wisc.edu/staff/brian-christens/) - [School of Human Ecology](https://sohe.wisc.edu/) - ___collective impact, community engagement___
 > Brian is the Faculty Director of UW's [Center for Community & Nonprofit Studies (The CommNS)](http://sohe.wisc.edu/who-we-are/centers/uw-center-for-nonprofits/). He and his team are very interested in helping achieve lasting improvements and changes in cites by empowering and enabling communities. I met with him and his postdoc in Dec. 2014 where we discussed drafting proposals for specific funding of his type or work for potential donors - alternatively, he could be involved with teams funding under the LC 'matching strategy'.
 
 + [Steve Ventura](http://experts.news.wisc.edu/experts/727) - [Soil Science](http://soils.wisc.edu/)
-> Steve has been contacted on multiple occassions by Jason and Tracey.  Tracey approached him in December 2014 about leading the food Livable Cities group sometime in early 2015.  Steve has agreed.  Steve has many connections to CALS and food systems work in Milwaukee.  He is a founder in the Institute for Urban Agriculture and Nutrition.  
+> Steve has been contacted on multiple occasions by Jason and Tracey.  Tracey approached him in December 2014 about leading the food Livable Cities group sometime in early 2015.  Steve has agreed.  Steve has many connections to CALS and food systems work in Milwaukee.  He is a founder in the Institute for Urban Agriculture and Nutrition.  
 
 + [Alfonso Morales](http://urpl.wisc.edu/people/morales/) - [URPL](http://urpl.wisc.edu/)
 > Alfonso has been approached about Livable Cities in relation to food systems. Steve Ventura has asked Alfonso to help with write-ups.  Alfonso spoke with Julie Snyder about an idea for repurposing an abandoned Green House near campus for student groups and food for campus.
@@ -86,7 +86,7 @@
 > Teresa has been in contact with Tracey about the upcoming January 12 transportation meeting. She will likely be a key player from engineering on the initiative.
 
 + [Paul Wilson](https://directory.engr.wisc.edu/ep/faculty/wilson_paul) - [Advanced Computing Infrastructure](http://aci.wisc.edu/)
->Jason spoke informally with Paul about Livable Cities in early September 2014. Tracey has also talked to Paul about working with ACI (Advance Computing Infrastructre).
+>Jason spoke informally with Paul about Livable Cities in early September 2014. Tracey has also talked to Paul about working with ACI (Advance Computing Infrastructure).
 
 + [Greg Nemet](http://www.lafollette.wisc.edu/faculty-staff/faculty/gregory-f-nemet) - [La Follette](http://www.lafollette.wisc.edu/index.php)
 >Jason and Tracey have both spoken to Greg about Livable Cities. His work on energy will be directly relatable. He doesn't lead LaFollette workshops, as we previously thought.
@@ -116,10 +116,10 @@
 > Tim was involved in a June 2014 Livable Cities meeting, but Mike Corradini seems to have taken over as primary contact from Wisconsin Energy Institute.
 
 + [Harvey Jacobs](http://www.urpl.wisc.edu/people/jacobs/) - [Urban and Regional Planning](http://www.urpl.wisc.edu/)
-> Harvey is a professor in the Urban and Regional Planning Department. His expertise is in land tenure and housing. Jason sat down with Harvey at the end of August 2014 to talk about Livable Cities. He has offered general guidance so far but has not been invovled with the overall planning. 
+> Harvey is a professor in the Urban and Regional Planning Department. His expertise is in land tenure and housing. Jason sat down with Harvey at the end of August 2014 to talk about Livable Cities. He has offered general guidance so far but has not been involved with the overall planning. 
 
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
-> Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
+> Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transportation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
 
 ### others invited to the Jan. 12, 2015 Transportation meeting
 
@@ -194,7 +194,7 @@
 > Katherine is key contact at the City. She already oversees two interns each year from URPL. She is always looking for help connecting her students to experts at the university. She and Steve Cover work closely together.  If Steve isn't available, contact Katherine.
 
 + Jeanne Hoffman - City of Madison Engineering and Facilities, Sustainable Madison Committee
-> Jeanne is in charge of engineering and facilities for the city of Madison. Jason met with Jeanne on December 2, 2014 with Giri to discuss using city facilities for research.  She is very interested in finding projects for students and working on Livable Cities in Madison. She often has students who work for her and frequently has then perform sustainability audits for the city, using [ICLEI](http://www.iclei.org/) tool. She recommend Jason be in touch with Don Moynihan in La Follette to talk about workshop ideas.  She also recommended getting in touch with Greg Harrington who is at the College of Engineering and the parks department. She also said Bernard Lesieutre at the University would also be a good contact.
+> Jeanne is in charge of engineering and facilities for the city of Madison. Jason met with Jeanne on December 2, 2014 with Giri to discuss using city facilities for research.  She is very interested in finding projects for students and working on Livable Cities in Madison. She often has students who work for her and frequently has then perform sustainability audits for the city, using [ICLEI](http://www.iclei.org/) tool. She recommend Jason be in touch with Don Moynihan in La Follette to talk about workshop ideas.  She also recommended getting in touch with [Greg Harrington](http://directory.engr.wisc.edu/cee/faculty/harrington_gregory) who is at the College of Engineering and the parks department. She also said [Bernard Lesieutre](http://directory.engr.wisc.edu/ece/faculty/lesieutre_bernard) at the University would also be a good contact.
 
 + Scott Resnick - City of Madison Alder ([Downtown](http://www.cityofmadison.com/council/district8/)); Principle, [Hardin Design & Development](http://hardindd.com/); Mayoral Candidate? 
 > Julie Snyder was introduced to Scott at the [Downtown Madison, Inc.](http://www.downtownmadison.org/) dinner (Nov. 19, 2014). Both of us met with Scott on (Dec. 3, 2014) to discuss Livable Cities. Scott is an important resource for thinking about civic computing and connections to the local IT industry as well as the city government.
@@ -206,10 +206,10 @@
 > Beth is the Assistant Director of Community-based Learning at the Morgridge Center. She is directly involved with a new community space in the former Villager Mall in south Madison.  Programming for the space is still being determined and it is ready for community engagement projects in south Madison.  Jason and Beth met on December 5. Beth works with [Karen Crossley](http://morgridge.wisc.edu/karen-crossley.htm) and [Kathy Cramer](http://experts.news.wisc.edu/experts/155). Karen and Kathy will meet with Deb, Jason, and Julie on January 27.
 
 + [Ted Petith](mailto:tedpetith@gmail.com) - Independent Contractor through City, strong Freiburg connection, involved in 800 E. Wash development
-> Ted is an independent city consultant and he has expertise on green buildings. He has led delegations from Madison to Freiberg and fostered that sister city connection. He has been important for making other connections around Dane County and is invovled with the Galaxy development 1800 East Washington. We've discussed the possibility of space in that buildilng once it is built as well as opportunities for students to study that development.  He had talked to Craig Benson on similar opportunities. He is very interested in Livable Cities as a way to capitalize Madison's connection to Freiberg and learning from that exchange. 
+> Ted is an independent city consultant and he has expertise on green buildings. He has led delegations from Madison to Freiburg and fostered that sister city connection. He has been important for making other connections around Dane County and is involved with the Galaxy development 1800 East Washington. We've discussed the possibility of space in that building once it is built as well as opportunities for students to study that development.  He had talked to Craig Benson on similar opportunities. He is very interested in Livable Cities as a way to capitalize Madison's connection to Freiburg and learning from that exchange. 
 
 + Steve Steinhoff - [Capital Region Sustainable Communities](http://www.capitalregionscrpg.org/) - Director of CARPC ([Capitol Area Regional Planning Commission](http://www.capitalarearpc.org/))
-> Jason and Steve have met on several occassions.  Jim LaGro works closely with Steve. Steven's organization could be an important partner on many Livable Cities projects in Dane Co.
+> Jason and Steve have met on several occasions.  Jim LaGro works closely with Steve. Steven's organization could be an important partner on many Livable Cities projects in Dane Co.
 
 + Mike Metzger
 > We met Mike at the DMI dinner.  Julie Snyder and Jason met him on December 3. He is the Director of Property Management at [McGrath Property Group](http://www.mcgrathpropertygroup.com/) and is interested in building projects around parking, energy behavior, and more.  They have a new development on East Washington that could be a potential study site. 
