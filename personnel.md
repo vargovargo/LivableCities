@@ -1,6 +1,6 @@
-### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the directors of 4 UW Institutes.
-
 #Organizing Leadership
+
+### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced more than a yeago and has been promoted by the directors of 4 UW Institutes.
 
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
 > __Jonathan initially established contact with the most engaged donors for the initiative__. 'Livable Cities' is also one of the four priority areas for the Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
@@ -100,7 +100,7 @@
 > Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__ Among the Leadership of Livable Cities, Tracey Holloway is in closest contact with Steve. 
 
 + [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) - [La Follette School of Public Affairs](http://www.lafollette.wisc.edu/index.php)
-> Susan is the Director of La Follette and had a meeting with Jason September 30, 2014.  They were joined by Hilary Shager, Associate Director at La Follette. Susan mentioned the La Follete workshops, a graduate school requirement.  Five or six students spend a semester to develop a report for a client (municipal departments, such as waste management in Milwaukee). They are always looking for new projects with real world clients each semester. 
+> Susan is the Director of La Follette and had a meeting with Jason September 30, 2014.  They were joined by Hilary Shager, Associate Director at La Follette. Susan mentioned the [La Follete workshops](http://www.lafollette.wisc.edu/research-public-service/workshops-in-public-affairs), a graduate school requirement.  Five or six students spend a semester to develop a report for a client (municipal departments, such as [waste management in Milwaukee](http://www.lafollette.wisc.edu/research-public-service/publications/strategies-for-bulky-waste-collection-in-the-city-of-milwaukee)). They are always looking for new projects with real world clients each semester. 
 
 + [Donald Moynihan](http://www.lafollette.wisc.edu/faculty-staff/faculty/donald-moynihan) - [La Follette School of Public Affairs](http://www.lafollette.wisc.edu/index.php)
 > Donald is a faculty member in La Follette looking for workshop ideas.  Jason was referred Jeanne Hoffman at the city of Madison. Jason and Don met on December 15, 2014 to let him know about Livable Cities.
@@ -150,7 +150,38 @@
 
 + [Michelle Miller](http://www.cias.wisc.edu/michelle-miller/) - Center for Integrated Agricultural Systems
 
+### others invited to the Jan. 12, 2015 Energy meeting ### 
 
++ [Doug Reinemann](http://bse.wisc.edu/Douglas_Reinemann.htm) - Biological Systems Engineering - ___rural energy issues___
+
++ [Alan Carroll](http://geoscience.wisc.edu/geoscience/people/faculty/alan-carroll/) - Geoscience 
+
++ [Xiaodong Du](http://www.aae.wisc.edu/faculty/xdu23/) - Agricultural & Applied Economics - ___energy markets___
+
++ [Bernard Lesieutre](http://directory.engr.wisc.edu/ece/faculty/lesieutre_bernard) - Electrical and Computer Engineering
+
++ [Richard Shaten](http://experts.news.wisc.edu/experts/737) - La Follette School of Public Affairs - ___energy analysis and policy___
+
++ [Bob Lasseter](http://directory.engr.wisc.edu/ece/faculty/lasseter_robert) - Electrical and Computer Engineering - ___microgrids___
+
++ [James Irwin](http://www.cows.org/staff-page/james-irwin) - Center on Wisconsin Strategy - ___energy efficiency, green infrastructure___
+
++ [Corbett Grainger](http://www.aae.wisc.edu/cagrainger/) - Agricultural & Applied Economics - ___resource economics___
+
++ [Ankur Desai](http://flux.aos.wisc.edu/twiki/bin/view/Main/AnkurDesai) - Atmospheric and Oceanic Sciences - ___ecometeorology___
+ 
++ [Thomas Jahns](http://directory.engr.wisc.edu/ece/faculty/jahns_thomas) - Electrical and Computer Engineering - ___power electronics___
+ 
++ [Sanford Klein](https://directory.engr.wisc.edu/me/faculty/klein_sanford) - Mechanical Engineering - ___solar energy___
+ 
++ [Greg Nellis](http://directory.engr.wisc.edu/me/faculty/nellis_gregory) - Mechanical Engineering - ___refrigeration___
+ 
++ [Dane Morgan](https://energy.wisc.edu/about/energy-experts/dane-morgan) - Material Science and Engineering - ___battery and fuel cell materials___
+ 
++ [Angela Pakes Ahlman](http://experts.news.wisc.edu/experts/1605) - Office of Sustainability - ___green building___
+ 
++ [Randy Jackson](http://agronomy.wisc.edu/randy-jackson/) - Agronomy - ___biofuel___
+ 
 ---
 
 #Non-University Contacts#
