@@ -69,19 +69,19 @@
 #Non-University Contacts#
 
 + Steve Cover - Madison Director of Planning and Community and Economic Development
-> Steve is the highest City contact next to the mayor. 
-
-+ Katherine Cornwall - Madison Director of Planning and Community and Economic Development
-> finish
-
-+ Jeanne Hoffman - City of Madison Engineering and Facilities, Sustainable Madison Committee
-> finish
+> Steve is the highest City contact next to the mayor. I was introduced to Steve via email by colleagues from Atlanta, where Steve was previously director of planning. Recently Ted Petith invited me to lunch with him and Steve (Dec.  
 
 + Katherine Cornwall - City of Madison, Director of the Planning Division
 > Katherine is key contact at the City. She already oversees 
 
++ Jeanne Hoffman - City of Madison Engineering and Facilities, Sustainable Madison Committee
+> finish
+
++ Scott Resnick - City of Madison Alder ([Downtown](http://www.cityofmadison.com/council/district8/)); Principle, [Hardin Design & Development](http://hardindd.com/); Mayoral Candidate? 
+> Julie was introduced to Scott at the [Downtown Madison, Inc.](http://www.downtownmadison.org/) dinner (Nov. 19, 2014). Both of us met with Scott on (Dec. 3, 2014) to discuss Livable Cities. 
+
 + Marcia Caton-Campbell - Executive Director of Center for Resilient Cities
-> Marcia is the primary contact for potential partnerships with Badger Rock Neighborhood Center. The Center is located in South Madison in an energy efficient building which also houses the [Center for Resilient Cities](http://resilientcities.org/Resilient_Cities/PROFILE.html) and Badger Rock Middle School. We've discussed partnerships around food, energy, transport, health, art, and more with Marcia and the Center. Marcia has worked with others on campus including Steve Ventura and Mike Bell. Most recently I've communicated with Marcia regarding her involvement with a Baldwin Grant idea around food security in South Madison and the potential for a NIEHS Center grant examining chronic environmental exposures and educational outcomes (with [Kristen Malecki](http://www.pophealth.wisc.edu/faculty/malecki)). 
+> Marcia is the primary contact for potential partnerships with Badger Rock Neighborhood Center. The Center is located in South Madison in an energy efficient building which also houses the [Center for Resilient Cities](http://resilientcities.org/Resilient_Cities/PROFILE.html) and Badger Rock Middle School. We've discussed partnerships around food, energy, transport, health, art, and more with Marcia and the Center. Marcia has worked with others on campus including Steve Ventura and Mike Bell. Most recently I've communicated with Marcia regarding her involvement with a Baldwin Grant idea around food security in South Madison and the potential for a NIEHS Center grant examining chronic environmental exposures and educational outcomes (with [Kristen Malecki - UW Faculty](http://www.pophealth.wisc.edu/faculty/malecki)). 
 
 + [Beth Tryon](https://morgridge.wisc.edu/elizabeth-tryon.htm) - [Morgridge Center for Public Service](https://morgridge.wisc.edu/index.htm)
 > Beth is the Assistant Director of Community-based Learning at the Morgridge Center. She is directly involved with a new 
