@@ -64,16 +64,15 @@
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 > Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__
 
-+ [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) <dmoynihan@lafollette.wisc.edu>
++ [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) 
 > finish
 
-+ [Donald Moynihan](http://www.lafollette.wisc.edu/faculty-staff/faculty/donald-moynihan) <dmoynihan@lafollette.wisc.edu>
++ [Donald Moynihan](http://www.lafollette.wisc.edu/faculty-staff/faculty/donald-moynihan)
 > finish
 
-###others included in the Jan. 12 Energy meeting###
-> [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) <gwaidley@engr.wisc.edu>
-
-pccarste@facstaff.wisc.edu,
+###others included in the Jan. 12 Transportation meeting###
+> [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) - Civil and Environmental Engineering
+> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
 
 
 "noyce@engr.wisc.edu Noyce" <noyce@engr.wisc.edu>,
