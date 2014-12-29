@@ -83,6 +83,7 @@
 > Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
 
 ###others included in the Jan. 12 Transportation meeting### 
+
 > [Greg Waidley](http://directory.engr.wisc.edu/cee/Staff/Waidley_Greg/) - Civil and Environmental Engineering
 
 > [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
