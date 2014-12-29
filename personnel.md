@@ -64,11 +64,20 @@
 + [Steve Ackerman](http://experts.news.wisc.edu/experts/214) - [Cooperative Institute for Meteorological Satellite Studies](http://cimss.ssec.wisc.edu/)
 > Steve's expertise is in satellite monitoring and forecasting. He is a key figure in leading efforts toward 'weather-ready cities' and was included on the NSF-SRN proposal around this idea. __I do not believe he has been approached directly about Livable Cities.__
 
-+ [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) 
++ [Susan Webb Yackee](http://www.lafollette.wisc.edu/faculty-staff/faculty/susan-webb-yackee) - [La Follette School of Public Affairs](http://www.lafollette.wisc.edu/index.php)
 > finish
 
-+ [Donald Moynihan](http://www.lafollette.wisc.edu/faculty-staff/faculty/donald-moynihan)
++ [Donald Moynihan](http://www.lafollette.wisc.edu/faculty-staff/faculty/donald-moynihan) - [La Follette School of Public Affairs](http://www.lafollette.wisc.edu/index.php)
 > finish
+
++ [Jamie Schauer](http://directory.engr.wisc.edu/cee/faculty/schauer_james) - [Civil and Environmental Engineering](http://www.engr.wisc.edu/cee.html) - ___air quality, atmospheric chemistry___
+>
+
++ [Maggie Grabow]()
+>
+
+
+
 
 + [David Noyce](http://directory.engr.wisc.edu/cee/faculty/noyce_david) - [Traffic Operations and Safety Lab](http://www.topslab.wisc.edu/)
 > Our conversations with David have been mostly about getting him involved in efforts to expand Civil and Transpotation engineering education at Ethiopian Universities. There are still plans for David to head over to Bahir Dar in 2015, perhaps while Jonathan is there. We have not engaged David directly in Livable Cities on campus, though he is aware of the initiative. 
@@ -86,48 +95,22 @@
 
 > [Mary Ebeling](http://www.ssti.us/about-ssti/expert-and-staff-bios/mary-ebeling/) - State Smart Transportation Initiative
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [John Lee](http://directory.engr.wisc.edu/ie/faculty/lee_john) - Industrial and Systems Engineering
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [Jim Miller](http://www.nelson.wisc.edu/graduate/advising.php) - Nelson Institute
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [Soyoung Ahn](http://directory.engr.wisc.edu/cee/Faculty/Ahn_Soyoung/) - Civil and Environmental Engineering
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [Paul Meier](https://energy.wisc.edu/about/people/meier) - Wisconsin Energy Institute
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [Monica Harkey](http://www.sage.wisc.edu/people/harkey/harkey.html) - Center for Sustainability and the Global Environment
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [Gary Radloff](http://experts.news.wisc.edu/experts/932) - Wisconsin Energy Institute
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [John Greenler](http://energy.wisc.edu/about/energy-experts/john-greenler) - Wisconsin Energy Institute
 
-> [Peter Carstensen](http://www.law.wisc.edu/profiles/pccarste@wisc.edu) - Law School
+> [Michelle Miller](http://www.cias.wisc.edu/michelle-miller/) - Center for Integrated Agricultural Systems
 
-
-
-
-
-"John D. Lee" <jdlee@engr.wisc.edu>,
-
-Jim Miller <jemiller@wisc.edu>,
-
-Soyoung Ahn <ahn37@wisc.edu>,
-
-Paul Meier <pmeier@wisc.edu>,
-
-
-Monica Harkey <mkharkey@wisc.edu>,
-
-Jamie Schauer <jjschauer@wisc.edu>,
-
-Donald Moynihan <dmoynihan@lafollette.wisc.edu>,
-
-Gary Radloff <gradloff@wbi.wisc.edu>,
-
-John Greenler <jgreenler@glbrc.wisc.edu>,
-Alfonso Morales <morales1@wisc.edu>,
-Maggie Grabow <maggie.grabow@gmail.com>,
-Michelle Miller <mmmille6@wisc.edu>,
-Michelle Bright <mbright@cows.org>
 
 ---
 
