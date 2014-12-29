@@ -1,5 +1,6 @@
-#Organizing Leadership#
-### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the directors of 4 UW Institutes.###
+### The [original 'white paper'](https://github.com/vargovargo/LivableCities/blob/master/LivableCitiesOriginal.md) informing this work was produced by the directors of 4 UW Institutes.
+
+#Organizing Leadership
 
 + [Jonathan Patz](http://ghi.wisc.edu/person-types/leadership/#5020) - [Global Health Institute](http://ghi.wisc.edu/)
 > __Jonathan initially established contact with the most engaged donors for the initiative__. 'Livable Cities' is also one of the four priority areas for the Global Health Institute, which Jonathan directs. GHI has received small gifts to pursue the development of this initiative and fund an internal (UW) grant process around Livable Cities. 
@@ -30,7 +31,7 @@
 + [Chris Olsen](http://www.vetmed.wisc.edu/people/olsenc/) - [Global Health Institute](http://ghi.wisc.edu/)
 > Chris was involved in one of the first Livable Cities meetings in May 2013.  He is also the acting director of the Global Health Institute while Jonathan Patz is on sabbatical. 
 
-### others included in the May 20, 2013 Major Gifts Insterdisciplinary Themes meeting ### 
+### others included in the May 20, 2013 Major Gifts Insterdisciplinary Themes meeting
 
 + [Paul DeLuca](http://www.med.wisc.edu/news-events/deluca-named-uw-madison-provost/1083) - Former UW Provost
 
