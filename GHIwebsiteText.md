@@ -2,7 +2,7 @@ Livable Cities is a campus-wide initiative that invites UW-Madison faculty and s
 
 ###_In the light of ongoing and increasing urbanization, climate change and the need for sustainable health, Livable Cities will connect the rigor of university research to city and community needs._###
 
-GHI, [The Nelson Institute for Environmental Studies](http://nelson.wisc.edu/) and [COWS](http://www.cows.org/) are leading an effort to organize UW expertise and resources toward improving the well-being of cities and their residents indefinitely. The groups are holding a symposium this May with the purpose of mapping current and projected activities on campus as well as learning how other institutions have pursued connections with community. 
+GHI, [The Nelson Institute for Environmental Studies](http://nelson.wisc.edu/) and [COWS](http://www.cows.org/) are leading an effort to organize UW expertise and resources toward improving the well-being of cities and their residents indefinitely. The groups are holding a [symposium this May](http://www.cows.org/livable-cities-symposium-mapping-uw-assets) aimed at mapping current and projected activities on campus as well as learning how other institutions have pursued connections with community. 
 
 Livable Cities will become a translational center, through which campus research can be applied to community challenges.
 
